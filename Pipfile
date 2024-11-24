@@ -30,6 +30,7 @@ qrcode = "*"
 pandas = "*"
 pypdf = "*"
 black = "*"
+pyinstaller = "*"
 
 [dev-packages]
 
