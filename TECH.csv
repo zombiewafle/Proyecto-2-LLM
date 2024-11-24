@@ -1,0 +1,900 @@
+MainBranch,Age,Gender,Country,Student,EdLevel,SocialMedia,LanguageWorkedWith,LanguageDesireNextYear,DatabaseWorkedWith,DatabaseDesireNextYear,PlatformWorkedWith,PlatformDesireNextYear,WebFrameWorkedWith,WebFrameDesireNextYear,DevEnviron
+I am a developer by profession,22,Man,United States,No,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Reddit,C,C,MySQL,MySQL,Linux,Linux,jQuery,React.js,Eclipse
+I am a developer by profession,23,Man,New Zealand,No,Some college/university study without earning a degree,Twitter,Bash/Shell/PowerShell,Bash/Shell/PowerShell,DynamoDB,PostgreSQL,AWS,AWS,Express,Express,Vim
+I am a developer by profession,28,Man,United States,No,"Master’s degree (MA, MS, M.Eng., MBA, etc.)",Twitter,C#,C,PostgreSQL,Redis,Docker,Docker,Ruby on Rails,Ruby on Rails,
+I am a developer by profession,26,Man,United Kingdom,No,"Master’s degree (MA, MS, M.Eng., MBA, etc.)",YouTube,C++,C#,SQLite,SQLite,Windows,Windows,,,Vim
+I am a developer by profession,29,Man,Australia,No,"Bachelor’s degree (BA, BS, B.Eng., etc.)",YouTube,C#,JavaScript,,,,,,,Visual Studio
+I am a developer by profession,31,Man,Brazil,No,Some college/university study without earning a degree,WhatsApp,Bash/Shell/PowerShell,Bash/Shell/PowerShell,Couchbase,Firebase,Android,Android,Angular/Angular.js,Express,Vim
+"I am not primarily a developer, but I write code sometimes as part of my work",38,Man,Lithuania,No,"Master’s degree (MA, MS, M.Eng., MBA, etc.)",Facebook,HTML/CSS,HTML/CSS,DynamoDB,MySQL,AWS,AWS,ASP.NET,Vue.js,Visual Studio
+I am a developer by profession,47,Man,United States,No,Some college/university study without earning a degree,Instagram,JavaScript,JavaScript,Firebase,Redis,Docker,Docker,Express,,Visual Studio Code
+I am a developer by profession,22,Man,United States,No,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Reddit,PHP,Rust,MySQL,,IBM Cloud or Watson,IBM Cloud or Watson,jQuery,,Xcode
+I am a developer by profession,23,Man,Israel,No,Primary/elementary school,Reddit,SQL,SQL,,,iOS,Linux,Vue.js,,
+I am a developer by profession,22,Man,South Africa,No,Associate degree,YouTube,TypeScript,TypeScript,,,Linux,Slack,,,
+I am a developer by profession,34,Man,United States,No,Some college/university study without earning a degree,I don't use social media,,WebAssembly,,,MacOS,Windows,,,
+I am a developer by profession,32,Man,United States,No,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Reddit,,,,,Microsoft Azure,WordPress,,,
+I am a developer by profession,21,Man,United States,No,Associate degree,YouTube,Bash/Shell/PowerShell,C#,MongoDB,Elasticsearch,,AWS,Angular/Angular.js,Angular/Angular.js,Visual Studio
+I am a developer by profession,44,Man,Czech Republic,No,"Master’s degree (MA, MS, M.Eng., MBA, etc.)",I don't use social media,C#,HTML/CSS,Microsoft SQL Server,MongoDB,,Google Cloud Platform,ASP.NET,ASP.NET,Visual Studio Code
+I am a developer by profession,42,Man,United States,No,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Reddit,HTML/CSS,JavaScript,MySQL,Microsoft SQL Server,,Microsoft Azure,jQuery,React.js,
+I am a developer by profession,27,Man,Spain,No,"Bachelor’s degree (BA, BS, B.Eng., etc.)",WhatsApp,JavaScript,TypeScript,,SQLite,,,,,
+I am a developer by profession,43,Man,Germany,No,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Twitter,TypeScript,WebAssembly,,,,,,,
+I am a developer by profession,34,Man,Serbia,"Yes, full-time",Some college/university study without earning a degree,I don't use social media,VBA,Other(s):,,,,,,,
+I am a developer by profession,23,Man,India,No,"Bachelor’s degree (BA, BS, B.Eng., etc.)",YouTube,Bash/Shell/PowerShell,Bash/Shell/PowerShell,MongoDB,Elasticsearch,Arduino,Docker,Angular/Angular.js,Angular/Angular.js,IntelliJ
+"I am not primarily a developer, but I write code sometimes as part of my work",18,Man,United States,"Yes, full-time","Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)",Instagram,HTML/CSS,HTML/CSS,PostgreSQL,Firebase,Docker,,Express,Express,Visual Studio Code
+I am a developer by profession,37,Man,Sweden,No,,YouTube,JavaScript,Java,,MongoDB,Heroku,,Spring,React.js,
+I am a developer by profession,33,Man,China,No,"Bachelor’s degree (BA, BS, B.Eng., etc.)",YouTube,TypeScript,JavaScript,,PostgreSQL,Raspberry Pi,,,Spring,
+"I am not primarily a developer, but I write code sometimes as part of my work",31,Man,France,No,"Master’s degree (MA, MS, M.Eng., MBA, etc.)",WhatsApp,,TypeScript,,,WordPress,,,Vue.js,
+I am a developer by profession,27,Man,United States,No,"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)",Twitter,,WebAssembly,,,,,,,
+I am a developer by profession,34,Man,United States,No,Some college/university study without earning a degree,Reddit,C#,HTML/CSS,DynamoDB,DynamoDB,Android,AWS,Angular/Angular.js,Express,Vim
+I am a developer by profession,19,Man,Netherlands,"Yes, full-time",Associate degree,Reddit,HTML/CSS,JavaScript,Firebase,,AWS,,ASP.NET,React.js,Visual Studio Code
+"I am not primarily a developer, but I write code sometimes as part of my work",24,Man,Australia,No,"Bachelor’s degree (BA, BS, B.Eng., etc.)",YouTube,Java,,Microsoft SQL Server,,Microsoft Azure,,Express,,
+I am a developer by profession,29,Man,India,No,"Bachelor’s degree (BA, BS, B.Eng., etc.)",WhatsApp,JavaScript,,MySQL,,,,jQuery,,
+I am a developer by profession,42,Man,United States,No,"Master’s degree (MA, MS, M.Eng., MBA, etc.)",YouTube,SQL,,SQLite,,,,React.js,,
+I am a developer by profession,21,Woman,Philippines,No,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Facebook,TypeScript,,,,,,,,
+I am a developer by profession,24,Man,Ireland,No,"Bachelor’s degree (BA, BS, B.Eng., etc.)",WhatsApp,Bash/Shell/PowerShell,Bash/Shell/PowerShell,Elasticsearch,Elasticsearch,Android,Android,Angular/Angular.js,Angular/Angular.js,Android Studio
+I am a developer by profession,27,Woman,India,"Yes, full-time","Bachelor’s degree (BA, BS, B.Eng., etc.)",YouTube,C#,C#,MariaDB,MariaDB,Docker,Docker,ASP.NET,ASP.NET,Visual Studio
+I am a developer by profession,32,Man,United Kingdom,No,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Facebook,HTML/CSS,HTML/CSS,MongoDB,MongoDB,Windows,Windows,jQuery,jQuery,Visual Studio Code
+I am a developer by profession,25,Man,India,"Yes, full-time","Bachelor’s degree (BA, BS, B.Eng., etc.)",YouTube,Java,Java,Microsoft SQL Server,Microsoft SQL Server,WordPress,,,,
+I am a developer by profession,24,Man,United Kingdom,No,"Bachelor’s degree (BA, BS, B.Eng., etc.)",I don't use social media,Bash/Shell/PowerShell,Bash/Shell/PowerShell,Elasticsearch,Elasticsearch,Docker,Docker,Angular/Angular.js,Angular/Angular.js,Sublime Text
+I am a developer by profession,22,Man,India,No,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Twitter,C++,C++,MySQL,MySQL,Linux,Linux,Ruby on Rails,Ruby on Rails,Visual Studio
+I am a developer by profession,26,Man,Pakistan,"Yes, full-time","Bachelor’s degree (BA, BS, B.Eng., etc.)",WhatsApp,HTML/CSS,HTML/CSS,Oracle,Oracle,Raspberry Pi,Raspberry Pi,,,Visual Studio Code
+"I am not primarily a developer, but I write code sometimes as part of my work",26,Woman,China,No,Some college/university study without earning a degree,WeChat 微信,JavaScript,JavaScript,Redis,Redis,Windows,Windows,,,
+I am a developer by profession,36,Man,Brazil,"Yes, part-time","Bachelor’s degree (BA, BS, B.Eng., etc.)",WhatsApp,Python,Python,,,,,,,
+I am a developer by profession,25,Man,India,No,"Master’s degree (MA, MS, M.Eng., MBA, etc.)",Twitter,Ruby,Ruby,,,,,,,
+I am a developer by profession,35,Man,Austria,No,"Bachelor’s degree (BA, BS, B.Eng., etc.)",WhatsApp,SQL,SQL,,,,,,,
+I am a developer by profession,27,Man,United Kingdom,No,Some college/university study without earning a degree,Reddit,TypeScript,TypeScript,,,,,,,
+I am a developer by profession,30,Man,United States,No,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Reddit,Bash/Shell/PowerShell,Bash/Shell/PowerShell,Oracle,Couchbase,Docker,Docker,React.js,Express,Visual Studio Code
+"I am not primarily a developer, but I write code sometimes as part of my work",25,"Non-binary, genderqueer, or gender non-conforming",United States,No,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Facebook,HTML/CSS,Go,SQLite,DynamoDB,Google Cloud Platform,iOS,Ruby on Rails,React.js,
+I am a developer by profession,39,Woman,Canada,No,Some college/university study without earning a degree,Twitter,JavaScript,HTML/CSS,,Elasticsearch,,Slack,,Ruby on Rails,
+I am a developer by profession,37,Man,United States,No,"Bachelor’s degree (BA, BS, B.Eng., etc.)",I don't use social media,HTML/CSS,Go,Firebase,,AWS,Android,Express,Vue.js,Visual Studio Code
+I am a developer by profession,29,Man,India,"Yes, full-time","Bachelor’s degree (BA, BS, B.Eng., etc.)",YouTube,JavaScript,,MongoDB,,WordPress,Docker,jQuery,,
+I am a developer by profession,41,Man,Croatia,No,"Master’s degree (MA, MS, M.Eng., MBA, etc.)",YouTube,PHP,,MySQL,,,Slack,React.js,,
+I am a developer by profession,26,Man,United States,No,"Master’s degree (MA, MS, M.Eng., MBA, etc.)",Reddit,TypeScript,,,,,,,,
+I am a developer by profession,54,Man,United States,No,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Twitter,HTML/CSS,HTML/CSS,MySQL,MySQL,Linux,Linux,Angular/Angular.js,Angular/Angular.js,Visual Studio Code
+I am a developer by profession,26,Man,Canada,No,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Reddit,JavaScript,JavaScript,,,Windows,Windows,jQuery,jQuery,
+I am a developer by profession,21,Man,Sweden,"Yes, part-time",Associate degree,YouTube,PHP,PHP,,,,,Laravel,Laravel,
+I am a developer by profession,31,Man,Spain,No,"Master’s degree (MA, MS, M.Eng., MBA, etc.)",Twitter,SQL,SQL,,,,,,React.js,
+I am a developer by profession,38,Man,United States,No,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Facebook,TypeScript,TypeScript,,,,,,Vue.js,
+I am a developer by profession,26,Man,Italy,No,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Reddit,Bash/Shell/PowerShell,C#,Microsoft SQL Server,Microsoft SQL Server,AWS,Android,Angular/Angular.js,Angular/Angular.js,Notepad++
+I am a developer by profession,28,Man,Pakistan,No,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Facebook,C++,HTML/CSS,MySQL,MySQL,Docker,Docker,ASP.NET,ASP.NET,Sublime Text
+I am a developer by profession,26,Man,South Africa,No,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Instagram,C#,JavaScript,Redis,Redis,Linux,iOS,Drupal,,Vim
+I am a developer by profession,27,Man,India,No,"Bachelor’s degree (BA, BS, B.Eng., etc.)",LinkedIn,HTML/CSS,Objective-C,SQLite,SQLite,MacOS,Linux,Express,,Visual Studio
+I am a developer by profession,32,Man,United States,No,"Bachelor’s degree (BA, BS, B.Eng., etc.)",WhatsApp,JavaScript,Ruby,,,Microsoft Azure,MacOS,jQuery,,Xcode
+"I am not primarily a developer, but I write code sometimes as part of my work",30,Man,United Kingdom,No,"Bachelor’s degree (BA, BS, B.Eng., etc.)",WhatsApp,PHP,SQL,,,Windows,Microsoft Azure,Ruby on Rails,,
+"I am not primarily a developer, but I write code sometimes as part of my work",34,Man,United States,No,"Other doctoral degree (Ph.D, Ed.D., etc.)",YouTube,Python,Swift,,,WordPress,Windows,,,
+I am a developer by profession,23,Man,Brazil,No,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Twitter,Bash/Shell/PowerShell,Bash/Shell/PowerShell,Firebase,PostgreSQL,,Docker,Express,Angular/Angular.js,Visual Studio Code
+I am a developer by profession,32,Man,Russian Federation,No,Associate degree,,JavaScript,Clojure,MongoDB,SQLite,,,jQuery,React.js,
+I am a developer by profession,24,Man,United States,No,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Reddit,SQL,JavaScript,MySQL,,,,React.js,Vue.js,
+I am a developer by profession,25,Man,India,No,"Bachelor’s degree (BA, BS, B.Eng., etc.)",YouTube,Bash/Shell/PowerShell,Bash/Shell/PowerShell,MongoDB,PostgreSQL,,,Express,Express,Atom
+I am a developer by profession,47,Man,Germany,No,"Bachelor’s degree (BA, BS, B.Eng., etc.)",WhatsApp,HTML/CSS,HTML/CSS,PostgreSQL,Redis,,,Flask,Flask,Vim
+I am a developer by profession,,Man,Argentina,No,Some college/university study without earning a degree,Twitter,C#,C#,Microsoft SQL Server,Microsoft SQL Server,Windows,Windows,ASP.NET,ASP.NET,Notepad++
+I am a developer by profession,28,Woman,United States,No,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Instagram,HTML/CSS,HTML/CSS,,,,,jQuery,jQuery,Visual Studio
+I am a developer by profession,34,Man,Romania,"Yes, part-time","Bachelor’s degree (BA, BS, B.Eng., etc.)",YouTube,JavaScript,JavaScript,,,,,,,
+I am a developer by profession,34,Man,Germany,No,"Master’s degree (MA, MS, M.Eng., MBA, etc.)",Twitter,SQL,SQL,,,,,,,
+I am a developer by profession,25,Man,United States,No,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Facebook,C#,C#,Microsoft SQL Server,Microsoft SQL Server,AWS,AWS,Angular/Angular.js,Angular/Angular.js,Notepad++
+I am a developer by profession,29,Man,Austria,No,"Bachelor’s degree (BA, BS, B.Eng., etc.)",WhatsApp,JavaScript,F#,PostgreSQL,PostgreSQL,Docker,Linux,ASP.NET,ASP.NET,Sublime Text
+I am a developer by profession,35,Man,South Africa,No,,,SQL,SQL,Redis,Redis,Kubernetes,Microsoft Azure,jQuery,,Vim
+I am a developer by profession,32,Woman,Iran,No,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Instagram,TypeScript,TypeScript,SQLite,SQLite,Linux,Windows,,,Visual Studio
+I am a developer by profession,47,Man,United Kingdom,No,"Bachelor’s degree (BA, BS, B.Eng., etc.)",YouTube,,,,,Microsoft Azure,,,,Visual Studio Code
+I am a developer by profession,30,Man,United States,No,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Twitter,,,,,Windows,,,,
+I am a developer by profession,31,Man,Germany,No,"Master’s degree (MA, MS, M.Eng., MBA, etc.)",Facebook,C++,C#,Firebase,Firebase,Android,Android,ASP.NET,ASP.NET,Android Studio
+I am a developer by profession,24,Man,India,No,"Bachelor’s degree (BA, BS, B.Eng., etc.)",WhatsApp,C#,HTML/CSS,MySQL,,Arduino,iOS,Django,Spring,Visual Studio
+I am a developer by profession,31,Man,India,No,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Facebook,HTML/CSS,Objective-C,Oracle,,iOS,MacOS,Spring,,Visual Studio Code
+I am a developer by profession,22,Man,Australia,"Yes, full-time",Some college/university study without earning a degree,VK ВКонта́кте,Java,,SQLite,,MacOS,Raspberry Pi,,,
+I am a developer by profession,35,Man,United States,No,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Reddit,JavaScript,,,,Raspberry Pi,Slack,,,
+I am a developer by profession,29,Woman,Argentina,No,"Master’s degree (MA, MS, M.Eng., MBA, etc.)",Twitter,Objective-C,,,,Slack,Windows,,,
+I am a developer by profession,30,Man,Hungary,No,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Reddit,SQL,,,,Windows,WordPress,,,
+I am a developer by profession,29,Man,Latvia,No,"Master’s degree (MA, MS, M.Eng., MBA, etc.)",Reddit,,,,,WordPress,,,,
+I am a developer by profession,28,Man,United Kingdom,"Yes, part-time","Master’s degree (MA, MS, M.Eng., MBA, etc.)",WhatsApp,Bash/Shell/PowerShell,C#,Oracle,Other(s):,Linux,Docker,Spring,Spring,IntelliJ
+I am a developer by profession,28,Man,Hong Kong (S.A.R.),No,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Instagram,C#,,Other(s):,,Windows,Linux,Vue.js,Vue.js,Visual Studio
+I am a developer by profession,27,Man,United Arab Emirates,No,"Master’s degree (MA, MS, M.Eng., MBA, etc.)",Facebook,HTML/CSS,,,,,Microsoft Azure,,Other(s):,Visual Studio Code
+I am a developer by profession,27,Man,United States,No,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Twitter,Java,,,,,Windows,,,
+I am a developer by profession,28,Man,Poland,"Yes, full-time","Master’s degree (MA, MS, M.Eng., MBA, etc.)",Reddit,JavaScript,,,,,,,,
+I am a developer by profession,29,Man,Poland,No,"Master’s degree (MA, MS, M.Eng., MBA, etc.)",Twitter,Bash/Shell/PowerShell,Bash/Shell/PowerShell,Cassandra,Cassandra,Android,Android,Angular/Angular.js,Angular/Angular.js,Android Studio
+I am a developer by profession,40,Man,France,"Yes, part-time","Master’s degree (MA, MS, M.Eng., MBA, etc.)",Twitter,HTML/CSS,HTML/CSS,DynamoDB,DynamoDB,Arduino,Arduino,Django,Express,IntelliJ
+"I am not primarily a developer, but I write code sometimes as part of my work",35,Man,Portugal,No,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Instagram,Java,Java,Elasticsearch,Elasticsearch,AWS,AWS,Express,Spring,Notepad++
+I am a developer by profession,45,Man,Canada,No,Some college/university study without earning a degree,YouTube,JavaScript,JavaScript,MariaDB,MariaDB,Docker,Docker,Spring,,Vim
+I am a developer by profession,34,Man,Hong Kong (S.A.R.),No,"Master’s degree (MA, MS, M.Eng., MBA, etc.)",Twitter,PHP,Kotlin,MongoDB,MongoDB,Linux,Linux,,,Visual Studio Code
+I am a developer by profession,33,Man,United States,No,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Reddit,Python,Python,PostgreSQL,PostgreSQL,Slack,Slack,,,
+I am a developer by profession,30,Man,United States,No,Associate degree,Instagram,SQL,SQL,,,Windows,Windows,,,
+I am a developer by profession,30,Man,Netherlands,"Yes, part-time",,WhatsApp,TypeScript,TypeScript,,,,,,,
+I am a developer by profession,41,Man,United Arab Emirates,No,"Bachelor’s degree (BA, BS, B.Eng., etc.)",WhatsApp,Bash/Shell/PowerShell,HTML/CSS,Elasticsearch,Firebase,Arduino,AWS,Django,Express,Notepad++
+I am a developer by profession,35,Man,Bulgaria,No,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Reddit,C,JavaScript,Firebase,PostgreSQL,AWS,Docker,Express,Flask,Visual Studio Code
+I am a developer by profession,36,Man,Netherlands,No,"Bachelor’s degree (BA, BS, B.Eng., etc.)",YouTube,C++,Python,MariaDB,Redis,Heroku,Heroku,Flask,jQuery,
+I am a developer by profession,39,Man,United States,No,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Facebook,HTML/CSS,,MongoDB,Other(s):,Linux,Kubernetes,jQuery,React.js,
+I am a developer by profession,,Man,India,"Yes, full-time","Bachelor’s degree (BA, BS, B.Eng., etc.)",Facebook,Java,,MySQL,,MacOS,Linux,,Vue.js,
+I am a developer by profession,23,Woman,Russian Federation,"Yes, full-time","Bachelor’s degree (BA, BS, B.Eng., etc.)",VK ВКонта́кте,JavaScript,,Oracle,,Raspberry Pi,MacOS,,,
+I am a developer by profession,28,Man,United States,No,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Twitter,PHP,,SQLite,,WordPress,WordPress,,,
+I am a developer by profession,33,Woman,United States,No,"Master’s degree (MA, MS, M.Eng., MBA, etc.)",Twitter,Python,,Other(s):,,,,,,
+I am a developer by profession,31,Man,Nicaragua,No,"Bachelor’s degree (BA, BS, B.Eng., etc.)",WhatsApp,SQL,,,,,,,,
+I am a developer by profession,32,Man,United States,No,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Facebook,Bash/Shell/PowerShell,Bash/Shell/PowerShell,DynamoDB,DynamoDB,AWS,AWS,Angular/Angular.js,Angular/Angular.js,IntelliJ
+I am a developer by profession,45,Man,Sweden,No,I never completed any formal education,Facebook,HTML/CSS,HTML/CSS,MySQL,MySQL,Docker,Docker,Spring,Spring,Visual Studio Code
+I am a developer by profession,31,Man,India,"Yes, part-time","Master’s degree (MA, MS, M.Eng., MBA, etc.)",Twitter,Java,Java,Oracle,PostgreSQL,,,,,
+I am a developer by profession,32,Man,Canada,No,Associate degree,Reddit,JavaScript,JavaScript,Redis,Redis,,,,,
+I am a developer by profession,35,Man,Sweden,No,Some college/university study without earning a degree,YouTube,PHP,SQL,,,,,,,
+I am a developer by profession,33,Man,United States,No,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Instagram,SQL,TypeScript,,,,,,,
+I am a developer by profession,33,Man,Austria,No,"Master’s degree (MA, MS, M.Eng., MBA, etc.)",I don't use social media,TypeScript,,,,,,,,
+I am a developer by profession,24,Man,Hong Kong (S.A.R.),No,"Bachelor’s degree (BA, BS, B.Eng., etc.)",WhatsApp,Bash/Shell/PowerShell,Bash/Shell/PowerShell,Elasticsearch,DynamoDB,Docker,AWS,Django,Django,IntelliJ
+I am a developer by profession,27,Man,United Kingdom,No,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Facebook,HTML/CSS,HTML/CSS,Firebase,Elasticsearch,Linux,Google Cloud Platform,React.js,React.js,PyCharm
+I am a developer by profession,28,Man,Germany,No,"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)",Reddit,JavaScript,JavaScript,PostgreSQL,Firebase,MacOS,Linux,,Vue.js,Sublime Text
+I am a developer by profession,41,Man,Australia,No,Associate degree,WhatsApp,Python,Python,SQLite,SQLite,,MacOS,,,Vim
+I am a developer by profession,31,Man,Denmark,No,Associate degree,Snapchat,,,,,,Microsoft Azure,,,
+I am a developer by profession,27,Man,United Kingdom,No,"Master’s degree (MA, MS, M.Eng., MBA, etc.)",Instagram,Bash/Shell/PowerShell,Java,MySQL,Cassandra,Heroku,AWS,Spring,Angular/Angular.js,IntelliJ
+I am a developer by profession,24,Man,United States,No,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Snapchat,HTML/CSS,JavaScript,Oracle,DynamoDB,,Docker,,Django,Visual Studio Code
+I am a developer by profession,25,Man,Japan,No,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Facebook,Java,Kotlin,,Elasticsearch,,Google Cloud Platform,,Express,
+I am a developer by profession,24,Man,India,No,"Bachelor’s degree (BA, BS, B.Eng., etc.)",YouTube,SQL,Python,,MariaDB,,Heroku,,React.js,
+I am a developer by profession,29,Man,Canada,No,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Twitter,,Scala,,MongoDB,,Kubernetes,,Spring,
+I am a developer by profession,34,Man,United States,No,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Twitter,,TypeScript,,Redis,,Slack,,,
+I am a developer by profession,29,Man,Israel,No,"Bachelor’s degree (BA, BS, B.Eng., etc.)",WhatsApp,JavaScript,Elixir,Firebase,DynamoDB,Linux,AWS,React.js,React.js,Notepad++
+I am a developer by profession,29,Man,Russian Federation,No,"Master’s degree (MA, MS, M.Eng., MBA, etc.)",I don't use social media,Python,JavaScript,MongoDB,Firebase,Windows,Docker,,,Visual Studio Code
+I am a developer by profession,27,Man,Ireland,No,"Master’s degree (MA, MS, M.Eng., MBA, etc.)",Facebook,,Python,,MongoDB,,Google Cloud Platform,,,
+I am a developer by profession,47,Man,United States,No,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Facebook,,TypeScript,,Redis,,Kubernetes,,,
+I am a developer by profession,26,Man,Hong Kong (S.A.R.),No,Associate degree,YouTube,,,,,,Linux,,,
+I am a developer by profession,32,Man,United Kingdom,No,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Facebook,,,,,,Raspberry Pi,,,
+I am a developer by profession,23,Man,Ireland,No,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Twitter,Bash/Shell/PowerShell,Bash/Shell/PowerShell,DynamoDB,Elasticsearch,AWS,AWS,Flask,Laravel,PHPStorm
+I am a developer by profession,37,Man,United States,No,Some college/university study without earning a degree,Reddit,Go,C++,Elasticsearch,MySQL,Docker,Docker,Laravel,Vue.js,Vim
+I am a developer by profession,27,Man,United States,No,"Master’s degree (MA, MS, M.Eng., MBA, etc.)",I don't use social media,JavaScript,Go,MariaDB,PostgreSQL,Kubernetes,Google Cloud Platform,React.js,Other(s):,Visual Studio Code
+I am a developer by profession,31,Man,Netherlands,No,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Instagram,PHP,Kotlin,MySQL,Redis,,Kubernetes,Vue.js,,
+I am a developer by profession,39,Man,Guatemala,No,"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)",Twitter,Python,Python,Redis,,,Raspberry Pi,Other(s):,,
+I am a developer by profession,33,Man,Germany,No,"Bachelor’s degree (BA, BS, B.Eng., etc.)",I don't use social media,Ruby,TypeScript,Other(s):,,,Slack,,,
+I am a developer by profession,30,Man,Netherlands,No,Some college/university study without earning a degree,Reddit,SQL,,,,,,,,
+I am a developer by profession,28,Man,Poland,No,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Twitter,C++,Go,Firebase,PostgreSQL,Android,Arduino,ASP.NET,Laravel,Android Studio
+"I am not primarily a developer, but I write code sometimes as part of my work",51,Man,Australia,No,Associate degree,Facebook,C#,,Microsoft SQL Server,,Linux,Linux,Drupal,,Atom
+I am a developer by profession,36,Woman,United States,No,"Master’s degree (MA, MS, M.Eng., MBA, etc.)",Twitter,HTML/CSS,,MySQL,,Raspberry Pi,Raspberry Pi,jQuery,,Eclipse
+"I am not primarily a developer, but I write code sometimes as part of my work",32,Man,Latvia,No,Associate degree,Instagram,JavaScript,,Redis,,Windows,,Laravel,,NetBeans
+I am a developer by profession,24,Man,Pakistan,No,"Bachelor’s degree (BA, BS, B.Eng., etc.)",LinkedIn,PHP,,SQLite,,,,,,Notepad++
+I am a developer by profession,31,Man,United States,No,"Master’s degree (MA, MS, M.Eng., MBA, etc.)",I don't use social media,Python,,,,,,,,PyCharm
+I am a developer by profession,22,Woman,United States,"Yes, full-time",Some college/university study without earning a degree,Reddit,SQL,,,,,,,,Vim
+I am a developer by profession,24,Man,Poland,"Yes, part-time",Some college/university study without earning a degree,Reddit,VBA,,,,,,,,Visual Studio
+I am a developer by profession,30,Man,Netherlands,No,"Bachelor’s degree (BA, BS, B.Eng., etc.)",YouTube,,,,,,,,,Visual Studio Code
+I am a developer by profession,32,Woman,United States,"Yes, part-time",Some college/university study without earning a degree,Facebook,Bash/Shell/PowerShell,Bash/Shell/PowerShell,MariaDB,MariaDB,Android,Android,Django,ASP.NET,Atom
+I am a developer by profession,23,Man,United States,No,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Twitter,C++,C,Microsoft SQL Server,MySQL,Linux,Docker,jQuery,Django,NetBeans
+I am a developer by profession,34,Man,Bangladesh,No,"Master’s degree (MA, MS, M.Eng., MBA, etc.)",Facebook,Go,C++,MySQL,Oracle,MacOS,Google Cloud Platform,React.js,Laravel,Notepad++
+I am a developer by profession,34,Man,Spain,"Yes, part-time","Master’s degree (MA, MS, M.Eng., MBA, etc.)",I don't use social media,HTML/CSS,C#,Oracle,PostgreSQL,Microsoft Azure,Heroku,,React.js,PHPStorm
+I am a developer by profession,31,Man,Israel,No,"Bachelor’s degree (BA, BS, B.Eng., etc.)",WhatsApp,Java,HTML/CSS,PostgreSQL,SQLite,Raspberry Pi,iOS,,,PyCharm
+I am a developer by profession,47,Man,Ukraine,,Some college/university study without earning a degree,Twitter,JavaScript,Java,,,WordPress,Linux,,,Sublime Text
+I am a developer by profession,35,Man,France,No,"Other doctoral degree (Ph.D, Ed.D., etc.)",Instagram,Kotlin,JavaScript,,,Other(s):,MacOS,,,Vim
+I am a developer by profession,24,Man,Germany,No,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Twitter,PHP,PHP,,,,Microsoft Azure,,,Visual Studio
+I am a developer by profession,33,Man,Russian Federation,No,Some college/university study without earning a degree,YouTube,Python,Python,,,,Raspberry Pi,,,Visual Studio Code
+I am a developer by profession,30,Man,Israel,No,"Bachelor’s degree (BA, BS, B.Eng., etc.)",WhatsApp,Ruby,Ruby,,,,Slack,,,Xcode
+I am a developer by profession,30,Man,Sweden,No,"Bachelor’s degree (BA, BS, B.Eng., etc.)",I don't use social media,SQL,SQL,,,,Windows,,,
+"I am not primarily a developer, but I write code sometimes as part of my work",28,Man,United States,No,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Twitter,TypeScript,Swift,,,,WordPress,,,
+I am a developer by profession,35,Man,Mexico,No,Some college/university study without earning a degree,Twitter,VBA,,,,,Other(s):,,,
+I am a developer by profession,23,Man,France,No,"Master’s degree (MA, MS, M.Eng., MBA, etc.)",YouTube,C,C#,DynamoDB,Elasticsearch,AWS,Raspberry Pi,Angular/Angular.js,React.js,IntelliJ
+I am a developer by profession,33,Man,Brazil,No,"Bachelor’s degree (BA, BS, B.Eng., etc.)",WhatsApp,C#,HTML/CSS,Microsoft SQL Server,MongoDB,,,Express,Ruby on Rails,Visual Studio Code
+I am a developer by profession,25,Man,France,No,,Facebook,HTML/CSS,R,MySQL,Redis,,,jQuery,Vue.js,
+I am a developer by profession,26,Man,United States,No,"Bachelor’s degree (BA, BS, B.Eng., etc.)",I don't use social media,Java,Rust,PostgreSQL,,,,,,
+I am a developer by profession,25,Man,Poland,No,"Bachelor’s degree (BA, BS, B.Eng., etc.)",,JavaScript,TypeScript,,,,,,,
+I am a developer by profession,29,Man,Pakistan,No,"Bachelor’s degree (BA, BS, B.Eng., etc.)",WhatsApp,PHP,,,,,,,,
+I am a developer by profession,33,Man,France,No,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Twitter,Python,,,,,,,,
+I am a developer by profession,40,Man,United States,No,Some college/university study without earning a degree,YouTube,SQL,,,,,,,,
+I am a developer by profession,25,Man,Egypt,No,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Facebook,VBA,,,,,,,,
+I am a developer by profession,37,Man,Brazil,No,"Bachelor’s degree (BA, BS, B.Eng., etc.)",WhatsApp,HTML/CSS,Elixir,Elasticsearch,DynamoDB,AWS,Arduino,Express,Express,Vim
+I am a developer by profession,26,Man,India,No,"Master’s degree (MA, MS, M.Eng., MBA, etc.)",Twitter,Java,Go,Firebase,Elasticsearch,Google Cloud Platform,AWS,jQuery,jQuery,
+I am a developer by profession,57,Man,Australia,No,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Twitter,JavaScript,HTML/CSS,,Firebase,Linux,Docker,React.js,React.js,
+I am a developer by profession,32,Man,Italy,No,"Bachelor’s degree (BA, BS, B.Eng., etc.)",I don't use social media,Python,Java,,Redis,MacOS,Google Cloud Platform,Vue.js,Vue.js,
+I am a developer by profession,26,Man,France,No,"Bachelor’s degree (BA, BS, B.Eng., etc.)",I don't use social media,,JavaScript,,,,Kubernetes,,,
+"I am not primarily a developer, but I write code sometimes as part of my work",38,Man,United States,No,"Master’s degree (MA, MS, M.Eng., MBA, etc.)",Facebook,,Kotlin,,,,Linux,,,
+I am a developer by profession,28,Man,United States,No,Some college/university study without earning a degree,YouTube,,Python,,,,MacOS,,,
+I am a developer by profession,27,Man,India,"Yes, full-time","Master’s degree (MA, MS, M.Eng., MBA, etc.)",Facebook,,R,,,,Raspberry Pi,,,
+I am a developer by profession,38,Man,United States,No,"Bachelor’s degree (BA, BS, B.Eng., etc.)",LinkedIn,,Scala,,,,,,,
+I am a developer by profession,52,Man,United States,No,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Facebook,,TypeScript,,,,,,,
+I am a developer by profession,30,Man,United States,No,"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)",Reddit,,WebAssembly,,,,,,,
+I am a developer by profession,41,Man,Australia,No,"Bachelor’s degree (BA, BS, B.Eng., etc.)",LinkedIn,C#,C#,Microsoft SQL Server,Microsoft SQL Server,Windows,Android,ASP.NET,Angular/Angular.js,Notepad++
+"I am not primarily a developer, but I write code sometimes as part of my work",22,Man,United States,"Yes, part-time",Some college/university study without earning a degree,I don't use social media,HTML/CSS,HTML/CSS,,SQLite,,Arduino,jQuery,ASP.NET,Visual Studio
+I am a developer by profession,48,Man,Hungary,No,"Master’s degree (MA, MS, M.Eng., MBA, etc.)",I don't use social media,JavaScript,JavaScript,,,,Google Cloud Platform,,jQuery,Visual Studio Code
+I am a developer by profession,31,Man,United States,No,"Master’s degree (MA, MS, M.Eng., MBA, etc.)",Reddit,SQL,Python,,,,Microsoft Azure,,,
+I am a developer by profession,49,Man,France,No,"Professional degree (JD, MD, etc.)",WhatsApp,,SQL,,,,Raspberry Pi,,,
+I am a developer by profession,27,Man,India,No,"Master’s degree (MA, MS, M.Eng., MBA, etc.)",YouTube,,TypeScript,,,,Windows,,,
+I am a developer by profession,30,Man,Spain,No,"Master’s degree (MA, MS, M.Eng., MBA, etc.)",Instagram,HTML/CSS,C#,MariaDB,DynamoDB,Android,Android,Laravel,Angular/Angular.js,Visual Studio Code
+I am a developer by profession,24,Man,India,No,"Master’s degree (MA, MS, M.Eng., MBA, etc.)",Facebook,JavaScript,HTML/CSS,MySQL,MySQL,Arduino,AWS,React.js,Django,
+I am a developer by profession,32,Man,United States,No,"Professional degree (JD, MD, etc.)",Reddit,PHP,JavaScript,,Redis,AWS,iOS,,jQuery,
+I am a developer by profession,43,Man,United States,No,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Reddit,Python,PHP,,,Linux,MacOS,,Laravel,
+I am a developer by profession,33,Man,Brazil,,"Master’s degree (MA, MS, M.Eng., MBA, etc.)",WhatsApp,SQL,Ruby,,,MacOS,Windows,,React.js,
+I am a developer by profession,35,Man,New Zealand,No,"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)",Twitter,VBA,SQL,,,Raspberry Pi,,,Ruby on Rails,
+I am a developer by profession,44,Man,Sweden,No,"Master’s degree (MA, MS, M.Eng., MBA, etc.)",Reddit,,,,,Windows,,,Vue.js,
+I am a developer by profession,21,"Non-binary, genderqueer, or gender non-conforming",United States,No,Some college/university study without earning a degree,Facebook,HTML/CSS,Java,DynamoDB,DynamoDB,AWS,AWS,Flask,Flask,Atom
+I am a developer by profession,27,Woman,Australia,No,"Bachelor’s degree (BA, BS, B.Eng., etc.)",WhatsApp,Java,Kotlin,,,Linux,iOS,Spring,,IntelliJ
+I am a developer by profession,28,Man,Switzerland,No,"Master’s degree (MA, MS, M.Eng., MBA, etc.)",Instagram,JavaScript,Python,,,MacOS,Linux,,,PyCharm
+I am a developer by profession,29,Woman,India,No,"Master’s degree (MA, MS, M.Eng., MBA, etc.)",Facebook,Kotlin,,,,Raspberry Pi,MacOS,,,Sublime Text
+I am a developer by profession,32,Man,New Zealand,No,Associate degree,Instagram,Python,,,,,Raspberry Pi,,,
+I am a developer by profession,28,Man,United Kingdom,No,"Master’s degree (MA, MS, M.Eng., MBA, etc.)",Reddit,Ruby,,,,,,,,
+I am a developer by profession,51,Man,United States,No,"Bachelor’s degree (BA, BS, B.Eng., etc.)",I don't use social media,HTML/CSS,HTML/CSS,MongoDB,Elasticsearch,Heroku,AWS,Express,Express,Sublime Text
+I am a developer by profession,24,Woman,Hong Kong (S.A.R.),No,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Facebook,JavaScript,Java,,Firebase,,Docker,React.js,React.js,Visual Studio Code
+I am a developer by profession,41,Man,United States,No,"Bachelor’s degree (BA, BS, B.Eng., etc.)",LinkedIn,,JavaScript,,MongoDB,,Heroku,,,
+I am a developer by profession,24,Man,United States,No,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Reddit,,Python,,,,Kubernetes,,,
+I am a developer by profession,38,Man,United States,No,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Reddit,,TypeScript,,,,,,,
+I am a developer by profession,25,Man,Spain,"Yes, full-time","Bachelor’s degree (BA, BS, B.Eng., etc.)",WhatsApp,PHP,Python,MariaDB,,AWS,,Other(s):,Other(s):,Notepad++
+I am a developer by profession,23,Man,Brazil,"Yes, full-time","Bachelor’s degree (BA, BS, B.Eng., etc.)",WhatsApp,SQL,,MySQL,,,,,,PHPStorm
+I am a developer by profession,28,Man,Germany,No,"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)",Instagram,HTML/CSS,HTML/CSS,MongoDB,MongoDB,Android,Android,Express,Express,Android Studio
+I am a developer by profession,31,Woman,Iran,No,"Bachelor’s degree (BA, BS, B.Eng., etc.)",WhatsApp,Java,Java,,,Raspberry Pi,Raspberry Pi,jQuery,React.js,IntelliJ
+I am a developer by profession,29,Man,Serbia,No,"Master’s degree (MA, MS, M.Eng., MBA, etc.)",YouTube,JavaScript,JavaScript,,,,,React.js,Vue.js,Visual Studio Code
+I am a developer by profession,24,Man,Australia,No,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Reddit,Kotlin,Kotlin,,,,,Vue.js,,
+I am a developer by profession,35,Man,United States,"Yes, full-time",I never completed any formal education,Facebook,Python,Python,,,,,,,
+I am a developer by profession,39,Man,New Zealand,No,"Bachelor’s degree (BA, BS, B.Eng., etc.)",YouTube,Bash/Shell/PowerShell,F#,MongoDB,Couchbase,Docker,Docker,Angular/Angular.js,ASP.NET,IntelliJ
+I am a developer by profession,32,Man,Germany,"Yes, full-time","Bachelor’s degree (BA, BS, B.Eng., etc.)",Facebook,C#,Go,Microsoft SQL Server,MariaDB,Kubernetes,Google Cloud Platform,ASP.NET,Flask,PyCharm
+I am a developer by profession,37,Man,United States,No,Some college/university study without earning a degree,Twitter,F#,Python,,MongoDB,Linux,Kubernetes,Flask,Vue.js,Visual Studio
+I am a developer by profession,29,Man,India,No,"Master’s degree (MA, MS, M.Eng., MBA, etc.)",WhatsApp,Go,Rust,,,Microsoft Azure,Linux,Vue.js,Other(s):,Visual Studio Code
+I am a developer by profession,23,Man,Russian Federation,"Yes, full-time","Bachelor’s degree (BA, BS, B.Eng., etc.)",VK ВКонта́кте,HTML/CSS,,,,Windows,Microsoft Azure,,,
+I am a developer by profession,23,Man,Poland,"Yes, part-time","Bachelor’s degree (BA, BS, B.Eng., etc.)",Reddit,Java,,,,,Windows,,,
+I am a developer by profession,28,Man,United Kingdom,No,Some college/university study without earning a degree,WhatsApp,JavaScript,,,,,,,,
+I am a developer by profession,26,Woman,India,No,"Master’s degree (MA, MS, M.Eng., MBA, etc.)",LinkedIn,Python,,,,,,,,
+I am a developer by profession,30,Man,India,No,"Bachelor’s degree (BA, BS, B.Eng., etc.)",YouTube,SQL,,,,,,,,
+I am a developer by profession,29,Man,France,No,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Snapchat,TypeScript,,,,,,,,
+I am a developer by profession,46,Man,United States,No,,Facebook,HTML/CSS,Elixir,DynamoDB,Cassandra,AWS,AWS,Express,Express,Sublime Text
+I am a developer by profession,22,Man,Poland,No,"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)",Reddit,JavaScript,Go,Elasticsearch,DynamoDB,Docker,Docker,React.js,React.js,Vim
+I am a developer by profession,31,Man,Poland,No,"Bachelor’s degree (BA, BS, B.Eng., etc.)",I don't use social media,,HTML/CSS,MongoDB,MongoDB,Google Cloud Platform,MacOS,,Ruby on Rails,Visual Studio Code
+I am a developer by profession,32,Man,Poland,No,Some college/university study without earning a degree,I don't use social media,,JavaScript,,MySQL,Linux,Slack,,Vue.js,
+I am a developer by profession,41,Man,France,No,"Master’s degree (MA, MS, M.Eng., MBA, etc.)",Twitter,,Ruby,,Redis,MacOS,,,,
+I am a developer by profession,25,Man,United States,No,"Master’s degree (MA, MS, M.Eng., MBA, etc.)",Reddit,,TypeScript,,,Slack,,,,
+"I am not primarily a developer, but I write code sometimes as part of my work",27,Woman,Mauritius,No,"Bachelor’s degree (BA, BS, B.Eng., etc.)",YouTube,,WebAssembly,,,Windows,,,,
+I am a developer by profession,27,Man,Croatia,No,"Master’s degree (MA, MS, M.Eng., MBA, etc.)",WhatsApp,C,C#,Firebase,Firebase,Android,Android,ASP.NET,,Android Studio
+I am a developer by profession,37,Man,United States,No,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Twitter,C++,Java,MySQL,MySQL,Windows,Windows,,,Visual Studio
+I am a developer by profession,23,Man,United States,No,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Snapchat,C#,Kotlin,SQLite,Oracle,,,,,
+I am a developer by profession,24,Man,India,No,"Bachelor’s degree (BA, BS, B.Eng., etc.)",WhatsApp,Java,Objective-C,,SQLite,,,,,
+I am a developer by profession,31,Man,Russian Federation,No,"Bachelor’s degree (BA, BS, B.Eng., etc.)",YouTube,Kotlin,,,,,,,,
+I am a developer by profession,32,Man,Ukraine,No,"Master’s degree (MA, MS, M.Eng., MBA, etc.)",YouTube,PHP,,,,,,,,
+I am a developer by profession,29,Man,South Korea,"Yes, full-time","Bachelor’s degree (BA, BS, B.Eng., etc.)",YouTube,SQL,,,,,,,,
+I am a developer by profession,20,Man,Switzerland,"Yes, part-time","Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)",WhatsApp,Bash/Shell/PowerShell,Bash/Shell/PowerShell,MariaDB,Elasticsearch,Linux,Docker,Django,Django,Coda
+I am a developer by profession,30,Man,United States,No,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Reddit,C#,Go,MongoDB,MariaDB,Windows,Linux,Express,Flask,IPython / Jupyter
+I am a developer by profession,40,Man,United States,No,Some college/university study without earning a degree,Reddit,HTML/CSS,HTML/CSS,Microsoft SQL Server,MongoDB,,Raspberry Pi,Flask,jQuery,Notepad++
+I am a developer by profession,23,Man,India,No,"Bachelor’s degree (BA, BS, B.Eng., etc.)",WhatsApp,JavaScript,JavaScript,MySQL,MySQL,,Windows,jQuery,Vue.js,Sublime Text
+I am a developer by profession,30,Woman,Canada,No,"Master’s degree (MA, MS, M.Eng., MBA, etc.)",WhatsApp,PHP,Python,Redis,Redis,,,Vue.js,Other(s):,Vim
+I am a developer by profession,24,Man,Netherlands,No,"Master’s degree (MA, MS, M.Eng., MBA, etc.)",YouTube,Python,Rust,SQLite,SQLite,,,,,Visual Studio Code
+I am a developer by profession,25,Man,United States,No,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Reddit,SQL,SQL,,,,,,,
+I am a developer by profession,37,Man,Canada,No,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Twitter,Bash/Shell/PowerShell,Go,Microsoft SQL Server,,Android,AWS,Django,Django,Android Studio
+I am a developer by profession,42,Man,Sweden,No,Some college/university study without earning a degree,Twitter,C,HTML/CSS,,,AWS,Docker,React.js,React.js,PyCharm
+I am a developer by profession,25,Man,Netherlands,No,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Facebook,C++,JavaScript,,,Docker,Linux,Spring,,Vim
+I am a developer by profession,24,Woman,Bulgaria,,Some college/university study without earning a degree,YouTube,C#,Kotlin,,,iOS,MacOS,,,Visual Studio Code
+I am a developer by profession,36,Man,Germany,No,"Master’s degree (MA, MS, M.Eng., MBA, etc.)",,Go,Python,,,Linux,,,,
+I am a developer by profession,24,Man,India,No,"Bachelor’s degree (BA, BS, B.Eng., etc.)",YouTube,HTML/CSS,,,,MacOS,,,,
+I am a developer by profession,23,Man,Canada,No,,Reddit,Java,,,,Slack,,,,
+"I am not primarily a developer, but I write code sometimes as part of my work",35,Man,United Kingdom,No,"Master’s degree (MA, MS, M.Eng., MBA, etc.)",WhatsApp,JavaScript,,,,Windows,,,,
+"I am not primarily a developer, but I write code sometimes as part of my work",35,Man,Canada,No,"Other doctoral degree (Ph.D, Ed.D., etc.)",Twitter,Objective-C,,,,,,,,
+I am a developer by profession,20,Woman,Israel,"Yes, part-time",Some college/university study without earning a degree,I don't use social media,Python,,,,,,,,
+I am a developer by profession,40,Man,United States,No,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Reddit,SQL,,,,,,,,
+I am a developer by profession,30,Woman,France,No,"Other doctoral degree (Ph.D, Ed.D., etc.)",Reddit,Bash/Shell/PowerShell,Bash/Shell/PowerShell,DynamoDB,Elasticsearch,Android,Android,React.js,React.js,Android Studio
+I am a developer by profession,21,Man,Brazil,"Yes, full-time",Some college/university study without earning a degree,Reddit,C#,C#,Firebase,MySQL,Docker,Docker,Ruby on Rails,Ruby on Rails,IntelliJ
+I am a developer by profession,30,Woman,United States,No,"Master’s degree (MA, MS, M.Eng., MBA, etc.)",Twitter,HTML/CSS,JavaScript,MySQL,PostgreSQL,Google Cloud Platform,iOS,,,RubyMine
+I am a developer by profession,28,Man,China,"Yes, full-time","Bachelor’s degree (BA, BS, B.Eng., etc.)",WeChat 微信,Java,Objective-C,SQLite,Redis,iOS,Kubernetes,,,Vim
+I am a developer by profession,28,Man,United States,No,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Instagram,JavaScript,Ruby,,,,,,,Visual Studio Code
+I am a developer by profession,27,Man,Slovenia,No,Some college/university study without earning a degree,Snapchat,Objective-C,SQL,,,,,,,Xcode
+I am a developer by profession,24,Man,India,No,"Bachelor’s degree (BA, BS, B.Eng., etc.)",WhatsApp,PHP,Swift,,,,,,,
+I am a developer by profession,23,Woman,Argentina,"Yes, part-time",Some college/university study without earning a degree,Twitter,Python,TypeScript,,,,,,,
+"I am not primarily a developer, but I write code sometimes as part of my work",,Man,Germany,No,"Bachelor’s degree (BA, BS, B.Eng., etc.)",YouTube,Ruby,,,,,,,,
+I am a developer by profession,30,Man,United States,No,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Twitter,SQL,,,,,,,,
+I am a developer by profession,,Man,Netherlands,No,"Bachelor’s degree (BA, BS, B.Eng., etc.)",WhatsApp,Swift,,,,,,,,
+"I am not primarily a developer, but I write code sometimes as part of my work",24,Man,United States,"Yes, full-time",Some college/university study without earning a degree,Reddit,TypeScript,,,,,,,,
+I am a developer by profession,25,Man,Ukraine,No,Some college/university study without earning a degree,,HTML/CSS,HTML/CSS,PostgreSQL,PostgreSQL,,,Other(s):,Spring,IntelliJ
+I am a developer by profession,29,Man,India,No,"Bachelor’s degree (BA, BS, B.Eng., etc.)",WhatsApp,Java,Java,,,,,,Other(s):,
+I am a developer by profession,23,Man,Germany,No,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Instagram,JavaScript,Kotlin,,,,,,,
+I am a developer by profession,,Man,India,No,"Master’s degree (MA, MS, M.Eng., MBA, etc.)",Facebook,Kotlin,SQL,,,,,,,
+I am a developer by profession,41,Man,Denmark,No,"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)",YouTube,SQL,,,,,,,,
+"I am not primarily a developer, but I write code sometimes as part of my work",31,Man,Estonia,No,Some college/university study without earning a degree,YouTube,VBA,,,,,,,,
+I am a developer by profession,43,Man,Switzerland,No,"Master’s degree (MA, MS, M.Eng., MBA, etc.)",I don't use social media,C#,Assembly,Microsoft SQL Server,Microsoft SQL Server,Microsoft Azure,Android,ASP.NET,ASP.NET,Notepad++
+I am a developer by profession,29,Man,United States,No,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Reddit,HTML/CSS,C,,,Windows,Arduino,jQuery,jQuery,Visual Studio
+I am a developer by profession,29,Man,United States,No,"Master’s degree (MA, MS, M.Eng., MBA, etc.)",Twitter,JavaScript,C++,,,,Microsoft Azure,,,Visual Studio Code
+I am a developer by profession,28,Man,Spain,"Yes, full-time","Other doctoral degree (Ph.D, Ed.D., etc.)",WhatsApp,SQL,C#,,,,Raspberry Pi,,,
+"I am not primarily a developer, but I write code sometimes as part of my work",34,Man,Russian Federation,No,"Master’s degree (MA, MS, M.Eng., MBA, etc.)",YouTube,,HTML/CSS,,,,Windows,,,
+I am a developer by profession,34,Man,Germany,No,"Master’s degree (MA, MS, M.Eng., MBA, etc.)",Reddit,,JavaScript,,,,,,,
+I am a developer by profession,29,Man,Iran,No,"Master’s degree (MA, MS, M.Eng., MBA, etc.)",WhatsApp,,Objective-C,,,,,,,
+I am a developer by profession,27,Man,Norway,No,"Master’s degree (MA, MS, M.Eng., MBA, etc.)",YouTube,,SQL,,,,,,,
+I am a developer by profession,30,Woman,Serbia,No,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Facebook,C#,C#,Microsoft SQL Server,Redis,AWS,AWS,Angular/Angular.js,,Notepad++
+I am a developer by profession,33,Man,United States,No,"Master’s degree (MA, MS, M.Eng., MBA, etc.)",I don't use social media,HTML/CSS,JavaScript,PostgreSQL,,Docker,Docker,,,PyCharm
+I am a developer by profession,,Man,Portugal,No,"Master’s degree (MA, MS, M.Eng., MBA, etc.)",Facebook,JavaScript,Python,,,Linux,Linux,,,RStudio
+I am a developer by profession,24,Man,Canada,No,"Bachelor’s degree (BA, BS, B.Eng., etc.)",YouTube,Python,SQL,,,Windows,Windows,,,Vim
+I am a developer by profession,36,Woman,United States,No,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Facebook,R,,,,,,,,Visual Studio
+I am a developer by profession,39,Man,United Kingdom,No,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Facebook,SQL,,,,,,,,
+I am a developer by profession,30,Man,Singapore,No,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Facebook,Bash/Shell/PowerShell,Bash/Shell/PowerShell,Other(s):,Other(s):,Linux,Linux,Flask,Flask,Atom
+I am a developer by profession,23,,Republic of Moldova,No,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Twitter,JavaScript,JavaScript,,,MacOS,MacOS,,,IPython / Jupyter
+I am a developer by profession,24,Man,United States,No,"Master’s degree (MA, MS, M.Eng., MBA, etc.)",Reddit,Python,Python,,,,,,,PyCharm
+I am a developer by profession,37,Man,United States,No,"Master’s degree (MA, MS, M.Eng., MBA, etc.)",Reddit,R,R,,,,,,,RStudio
+I am a developer by profession,37,Man,Netherlands,No,"Master’s degree (MA, MS, M.Eng., MBA, etc.)",Reddit,SQL,SQL,,,,,,,Vim
+I am a developer by profession,28,Man,India,No,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Instagram,HTML/CSS,C,PostgreSQL,PostgreSQL,AWS,AWS,Express,Express,Vim
+I am a developer by profession,28,Woman,France,No,"Master’s degree (MA, MS, M.Eng., MBA, etc.)",LinkedIn,JavaScript,C++,Redis,Redis,Docker,Docker,jQuery,jQuery,
+I am a developer by profession,35,Man,United States,No,"Other doctoral degree (Ph.D, Ed.D., etc.)",Facebook,Ruby,Elixir,,,Linux,Linux,React.js,React.js,
+I am a developer by profession,27,Man,India,No,"Bachelor’s degree (BA, BS, B.Eng., etc.)",WhatsApp,SQL,HTML/CSS,,,Windows,Windows,Ruby on Rails,Ruby on Rails,
+I am a developer by profession,31,Man,United States,No,"Master’s degree (MA, MS, M.Eng., MBA, etc.)",Instagram,TypeScript,JavaScript,,,,,,,
+I am a developer by profession,30,Man,India,"Yes, full-time","Master’s degree (MA, MS, M.Eng., MBA, etc.)",Facebook,,Ruby,,,,,,,
+I am a developer by profession,52,Man,United Kingdom,No,"Master’s degree (MA, MS, M.Eng., MBA, etc.)",Twitter,,SQL,,,,,,,
+"I am not primarily a developer, but I write code sometimes as part of my work",33,Man,United States,No,Associate degree,Reddit,,TypeScript,,,,,,,
+I am a developer by profession,36,Man,United Kingdom,No,Some college/university study without earning a degree,WhatsApp,C#,C,Microsoft SQL Server,MongoDB,Microsoft Azure,AWS,ASP.NET,Angular/Angular.js,Notepad++
+I am a developer by profession,27,Man,Russian Federation,No,Some college/university study without earning a degree,VK ВКонта́кте,HTML/CSS,C++,,PostgreSQL,,Kubernetes,jQuery,Vue.js,Visual Studio
+"I am not primarily a developer, but I write code sometimes as part of my work",23,Man,United States,No,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Reddit,JavaScript,Elixir,,SQLite,,Microsoft Azure,React.js,,Visual Studio Code
+I am a developer by profession,28,Man,Belgium,No,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Reddit,SQL,Go,,,,,Other(s):,,
+I am a developer by profession,29,Man,United States,No,"Master’s degree (MA, MS, M.Eng., MBA, etc.)",Facebook,TypeScript,Ruby,,,,,,,
+I am a developer by profession,18,Woman,Brazil,"Yes, part-time","Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)",YouTube,,WebAssembly,,,,,,,
+I am a developer by profession,28,Man,Belgium,"Yes, full-time","Bachelor’s degree (BA, BS, B.Eng., etc.)",YouTube,C#,TypeScript,Microsoft SQL Server,Couchbase,Windows,AWS,Angular/Angular.js,Angular/Angular.js,Notepad++
+I am a developer by profession,31,Man,United States,No,"Bachelor’s degree (BA, BS, B.Eng., etc.)",YouTube,HTML/CSS,,,,,Docker,ASP.NET,,Visual Studio
+"I am not primarily a developer, but I write code sometimes as part of my work",27,Man,Italy,No,"Master’s degree (MA, MS, M.Eng., MBA, etc.)",WhatsApp,TypeScript,,,,,Microsoft Azure,jQuery,,Visual Studio Code
+I am a developer by profession,36,Man,United States,No,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Facebook,C#,C#,MongoDB,Elasticsearch,AWS,AWS,ASP.NET,ASP.NET,Notepad++
+I am a developer by profession,24,Man,Italy,No,"Master’s degree (MA, MS, M.Eng., MBA, etc.)",Reddit,HTML/CSS,HTML/CSS,MySQL,MongoDB,Docker,Docker,jQuery,jQuery,Visual Studio
+I am a developer by profession,23,Man,United States,No,Some college/university study without earning a degree,,JavaScript,JavaScript,Oracle,MySQL,Kubernetes,Kubernetes,,,Visual Studio Code
+I am a developer by profession,29,Man,Brazil,No,"Master’s degree (MA, MS, M.Eng., MBA, etc.)",WhatsApp,SQL,SQL,,,Windows,Windows,,,
+I am a developer by profession,37,Man,South Africa,No,Some college/university study without earning a degree,Facebook,Python,Python,Cassandra,Cassandra,,Android,,Flask,IPython / Jupyter
+I am a developer by profession,19,Man,Nigeria,"Yes, full-time","Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)",Instagram,SQL,SQL,Other(s):,Elasticsearch,,,,,Visual Studio Code
+I am a developer by profession,24,Man,United States,No,Associate degree,Reddit,,,,Other(s):,,,,,
+I am a developer by profession,28,Man,Israel,No,"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)",Facebook,Bash/Shell/PowerShell,Bash/Shell/PowerShell,Microsoft SQL Server,Microsoft SQL Server,Arduino,Android,ASP.NET,Angular/Angular.js,Visual Studio
+I am a developer by profession,33,Man,United States,No,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Reddit,C#,C#,Oracle,Oracle,Windows,Windows,jQuery,ASP.NET,
+I am a developer by profession,37,Man,United States,"Yes, part-time",Associate degree,YouTube,HTML/CSS,HTML/CSS,,,,,,jQuery,
+I am a developer by profession,25,Woman,Germany,No,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Twitter,JavaScript,JavaScript,,,,,,,
+I am a developer by profession,28,Man,United States,No,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Reddit,Python,Python,,,,,,,
+I am a developer by profession,35,Man,Germany,No,"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)",YouTube,SQL,SQL,,,,,,,
+I am a developer by profession,28,Man,Turkey,No,"Bachelor’s degree (BA, BS, B.Eng., etc.)",I don't use social media,VBA,VBA,,,,,,,
+I am a developer by profession,29,Man,United States,No,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Twitter,Bash/Shell/PowerShell,JavaScript,MySQL,MongoDB,Docker,AWS,Laravel,Django,PHPStorm
+I am a developer by profession,34,Man,United States,No,"Bachelor’s degree (BA, BS, B.Eng., etc.)",LinkedIn,C++,Python,Redis,Redis,Linux,Docker,Other(s):,Flask,Vim
+I am a developer by profession,32,Man,United States,No,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Facebook,Erlang,,Other(s):,,,Kubernetes,,Laravel,
+I am a developer by profession,24,Woman,Netherlands,No,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Instagram,JavaScript,,,,,Linux,,React.js,
+I am a developer by profession,36,Man,United States,"Yes, part-time","Master’s degree (MA, MS, M.Eng., MBA, etc.)",YouTube,PHP,,,,,,,Vue.js,
+I am a developer by profession,28,Woman,Brazil,No,Associate degree,Facebook,Python,,,,,,,Other(s):,
+I am a developer by profession,22,Man,France,No,"Bachelor’s degree (BA, BS, B.Eng., etc.)",I don't use social media,Assembly,HTML/CSS,Firebase,Firebase,Android,Android,ASP.NET,Express,Android Studio
+I am a developer by profession,41,Man,Australia,No,"Master’s degree (MA, MS, M.Eng., MBA, etc.)",WhatsApp,C#,Java,MongoDB,MongoDB,Arduino,Docker,jQuery,React.js,IntelliJ
+I am a developer by profession,35,Man,Turkey,"Yes, part-time","Bachelor’s degree (BA, BS, B.Eng., etc.)",,HTML/CSS,JavaScript,Microsoft SQL Server,SQLite,Docker,Google Cloud Platform,React.js,,Visual Studio
+I am a developer by profession,34,Woman,Netherlands,No,"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)",Facebook,Java,SQL,MySQL,,Google Cloud Platform,MacOS,Spring,,Visual Studio Code
+I am a developer by profession,36,Man,Sweden,No,"Master’s degree (MA, MS, M.Eng., MBA, etc.)",Twitter,JavaScript,,,,iOS,Slack,,,
+I am a developer by profession,39,Man,United States,No,"Bachelor’s degree (BA, BS, B.Eng., etc.)",I don't use social media,SQL,,,,MacOS,Windows,,,
+I am a developer by profession,49,Man,United States,No,"Master’s degree (MA, MS, M.Eng., MBA, etc.)",Twitter,Swift,,,,Slack,,,,
+I am a developer by profession,36,Man,United States,No,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Twitter,,,,,Windows,,,,
+I am a developer by profession,24,Man,India,"Yes, full-time","Bachelor’s degree (BA, BS, B.Eng., etc.)",LinkedIn,,,,,WordPress,,,,
+I am a developer by profession,25,Man,United States,No,"Master’s degree (MA, MS, M.Eng., MBA, etc.)",Instagram,Scala,Scala,Elasticsearch,Elasticsearch,AWS,AWS,Other(s):,Other(s):,Emacs
+I am a developer by profession,33,Man,Thailand,No,"Bachelor’s degree (BA, BS, B.Eng., etc.)",,Other(s):,Other(s):,PostgreSQL,PostgreSQL,Docker,Docker,,,IntelliJ
+I am a developer by profession,29,Man,United Kingdom,"Yes, part-time",Some college/university study without earning a degree,Facebook,,,,,Google Cloud Platform,Google Cloud Platform,,,
+I am a developer by profession,22,Man,United States,"Yes, full-time",Some college/university study without earning a degree,Reddit,,,,,Linux,Linux,,,
+I am a developer by profession,19,Man,Russian Federation,"Yes, full-time",Some college/university study without earning a degree,VK ВКонта́кте,C#,C#,Microsoft SQL Server,,Slack,Android,Angular/Angular.js,Angular/Angular.js,Notepad++
+I am a developer by profession,26,Man,Netherlands,No,"Bachelor’s degree (BA, BS, B.Eng., etc.)",WhatsApp,HTML/CSS,HTML/CSS,,,Windows,iOS,ASP.NET,Vue.js,Visual Studio
+I am a developer by profession,38,Man,France,No,"Master’s degree (MA, MS, M.Eng., MBA, etc.)",Instagram,JavaScript,JavaScript,,,,Microsoft Azure,jQuery,,Visual Studio Code
+I am a developer by profession,32,Man,Canada,No,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Twitter,SQL,TypeScript,,,,Raspberry Pi,Vue.js,,
+I am a developer by profession,34,Man,Mongolia,No,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Facebook,TypeScript,,,,,Slack,,,
+I am a developer by profession,32,Man,Netherlands,No,Some college/university study without earning a degree,Reddit,,,,,,Windows,,,
+I am a developer by profession,34,Man,United States,No,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Reddit,Bash/Shell/PowerShell,Bash/Shell/PowerShell,SQLite,SQLite,Docker,Docker,,,Eclipse
+I am a developer by profession,27,Man,United States,No,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Reddit,C,C,,,Linux,Linux,,,
+I am a developer by profession,27,Man,United States,No,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Reddit,C++,,,,,,,,
+I am a developer by profession,28,"Non-binary, genderqueer, or gender non-conforming",United States,No,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Reddit,C,C,Firebase,Firebase,Android,Android,ASP.NET,Angular/Angular.js,Android Studio
+I am a developer by profession,31,Man,United States,No,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Reddit,C++,C++,Microsoft SQL Server,MongoDB,Slack,iOS,,React.js,Notepad++
+I am a developer by profession,42,Man,United Kingdom,No,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Facebook,C#,C#,MySQL,Microsoft SQL Server,WordPress,Slack,,,
+I am a developer by profession,28,Woman,Mexico,No,"Bachelor’s degree (BA, BS, B.Eng., etc.)",WhatsApp,HTML/CSS,HTML/CSS,SQLite,MySQL,,WordPress,,,
+I am a developer by profession,45,Man,United States,No,"Bachelor’s degree (BA, BS, B.Eng., etc.)",LinkedIn,Java,Java,,SQLite,,,,,
+I am a developer by profession,33,Man,Chile,No,"Master’s degree (MA, MS, M.Eng., MBA, etc.)",YouTube,JavaScript,JavaScript,,,,,,,
+I am a developer by profession,27,Man,United States,No,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Reddit,SQL,Kotlin,,,,,,,
+"I am not primarily a developer, but I write code sometimes as part of my work",34,Man,Spain,No,Some college/university study without earning a degree,,,Python,,,,,,,
+I am a developer by profession,24,Man,Malaysia,No,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Facebook,,SQL,,,,,,,
+I am a developer by profession,29,Man,United States,No,"Master’s degree (MA, MS, M.Eng., MBA, etc.)",Reddit,,Swift,,,,,,,
+I am a developer by profession,27,Man,United States,No,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Facebook,Elixir,Elixir,MongoDB,,AWS,AWS,Flask,Flask,Vim
+I am a developer by profession,21,Man,Italy,"Yes, full-time",Some college/university study without earning a degree,Instagram,HTML/CSS,HTML/CSS,PostgreSQL,,Heroku,Google Cloud Platform,Ruby on Rails,React.js,
+I am a developer by profession,26,Woman,Georgia,No,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Facebook,JavaScript,Python,,,iOS,Heroku,,Ruby on Rails,
+I am a developer by profession,31,Man,Canada,"Yes, full-time","Other doctoral degree (Ph.D, Ed.D., etc.)",YouTube,Python,Ruby,,,MacOS,iOS,,,
+I am a developer by profession,45,Man,United States,No,"Bachelor’s degree (BA, BS, B.Eng., etc.)",I don't use social media,Ruby,Rust,,,Slack,MacOS,,,
+I am a developer by profession,24,Man,United States,"Yes, full-time","Bachelor’s degree (BA, BS, B.Eng., etc.)",Twitter,SQL,Swift,,,Windows,Slack,,,
+I am a developer by profession,24,Man,South Africa,No,"Master’s degree (MA, MS, M.Eng., MBA, etc.)",WhatsApp,,,,,,Windows,,,
+I am a developer by profession,29,Man,Italy,No,"Master’s degree (MA, MS, M.Eng., MBA, etc.)",Instagram,HTML/CSS,Java,MySQL,MySQL,AWS,AWS,Spring,Spring,Eclipse
+I am a developer by profession,37,Man,United Kingdom,No,Some college/university study without earning a degree,Facebook,Java,Python,Oracle,Oracle,Google Cloud Platform,Docker,,,
+I am a developer by profession,26,Woman,Malaysia,No,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Instagram,SQL,,,,,Google Cloud Platform,,,
+I am a developer by profession,29,Man,Australia,No,"Bachelor’s degree (BA, BS, B.Eng., etc.)",,,,,,,Kubernetes,,,
+I am a developer by profession,31,Woman,United States,"Yes, full-time","Master’s degree (MA, MS, M.Eng., MBA, etc.)",Facebook,,,,,,Microsoft Azure,,,
+I am a developer by profession,24,Man,United States,"Yes, full-time","Bachelor’s degree (BA, BS, B.Eng., etc.)",Reddit,C#,Rust,Microsoft SQL Server,Microsoft SQL Server,Linux,AWS,ASP.NET,,Visual Studio
+I am a developer by profession,22,Man,United States,No,"Bachelor’s degree (BA, BS, B.Eng., etc.)",YouTube,SQL,,,PostgreSQL,MacOS,iOS,,,Visual Studio Code
+I am a developer by profession,36,Man,United Kingdom,No,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Twitter,,,,,Microsoft Azure,Linux,,,
+I am a developer by profession,21,Man,United States,No,Some college/university study without earning a degree,Reddit,,,,,Windows,MacOS,,,
+I am a developer by profession,30,Man,United Arab Emirates,No,"Master’s degree (MA, MS, M.Eng., MBA, etc.)",Twitter,,,,,Other(s):,Microsoft Azure,,,
+I am a developer by profession,27,Woman,Russian Federation,No,,Instagram,,,,,,Windows,,,
+I am a developer by profession,41,Man,Luxembourg,No,"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)",Reddit,,,,,,Other(s):,,,
+I am a developer by profession,24,Man,Australia,No,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Reddit,Bash/Shell/PowerShell,Bash/Shell/PowerShell,PostgreSQL,PostgreSQL,AWS,AWS,Ruby on Rails,Ruby on Rails,Atom
+I am a developer by profession,37,Man,Switzerland,No,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Facebook,Go,Go,Redis,Redis,Docker,Docker,,,Sublime Text
+I am a developer by profession,23,Man,Germany,No,"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)",I don't use social media,Ruby,Ruby,SQLite,SQLite,Google Cloud Platform,Google Cloud Platform,,,Visual Studio Code
+I am a developer by profession,,Woman,India,No,"Bachelor’s degree (BA, BS, B.Eng., etc.)",YouTube,,,,,Kubernetes,Kubernetes,,,
+I am a developer by profession,28,Man,United States,No,"Master’s degree (MA, MS, M.Eng., MBA, etc.)",Instagram,,,,,Linux,Linux,,,
+I am a developer by profession,32,Man,United States,No,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Facebook,,,,,MacOS,MacOS,,,
+I am a developer by profession,36,Man,Hungary,No,"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)",Twitter,,,,,Slack,,,,
+I am a developer by profession,30,Man,India,No,"Master’s degree (MA, MS, M.Eng., MBA, etc.)",Facebook,C++,C++,MySQL,Couchbase,Linux,AWS,,Django,Atom
+I am a developer by profession,21,Man,India,"Yes, full-time","Bachelor’s degree (BA, BS, B.Eng., etc.)",WhatsApp,Python,Clojure,,MongoDB,Raspberry Pi,Docker,,,Eclipse
+I am a developer by profession,21,Man,Dominican Republic,"Yes, full-time","Bachelor’s degree (BA, BS, B.Eng., etc.)",YouTube,Bash/Shell/PowerShell,Bash/Shell/PowerShell,MySQL,PostgreSQL,AWS,AWS,Django,Django,Emacs
+I am a developer by profession,44,Man,Germany,No,"Master’s degree (MA, MS, M.Eng., MBA, etc.)",Twitter,C++,C#,PostgreSQL,Redis,Docker,Linux,Flask,Flask,IntelliJ
+I am a developer by profession,27,Man,United States,No,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Twitter,Clojure,Clojure,Redis,SQLite,Linux,Windows,Spring,,Vim
+I am a developer by profession,27,Man,France,No,"Master’s degree (MA, MS, M.Eng., MBA, etc.)",I don't use social media,Go,HTML/CSS,Couchbase,PostgreSQL,,,Angular/Angular.js,Angular/Angular.js,
+I am a developer by profession,44,Man,South Africa,No,"Bachelor’s degree (BA, BS, B.Eng., etc.)",I don't use social media,HTML/CSS,JavaScript,MongoDB,,,,Express,Express,
+I am a developer by profession,22,Man,United States,No,"Bachelor’s degree (BA, BS, B.Eng., etc.)",LinkedIn,JavaScript,TypeScript,PostgreSQL,,,,jQuery,React.js,
+I am a developer by profession,26,Man,Australia,No,Associate degree,Instagram,TypeScript,,,,,,React.js,,
+I am a developer by profession,36,Man,United States,No,"Master’s degree (MA, MS, M.Eng., MBA, etc.)",Reddit,Bash/Shell/PowerShell,Bash/Shell/PowerShell,MariaDB,MariaDB,Linux,Linux,ASP.NET,Angular/Angular.js,Notepad++
+I am a developer by profession,26,Man,India,No,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Instagram,HTML/CSS,C#,MySQL,MySQL,Raspberry Pi,Raspberry Pi,jQuery,jQuery,PyCharm
+I am a developer by profession,23,Man,United States,No,"Bachelor’s degree (BA, BS, B.Eng., etc.)",YouTube,JavaScript,HTML/CSS,Oracle,PostgreSQL,Windows,Windows,,React.js,Vim
+"I am not primarily a developer, but I write code sometimes as part of my work",30,Man,United Kingdom,No,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Facebook,PHP,PHP,,,,,,,Visual Studio
+I am a developer by profession,24,Man,United States,No,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Reddit,Python,Python,,,,,,,
+I am a developer by profession,27,Man,United States,"Yes, part-time","Bachelor’s degree (BA, BS, B.Eng., etc.)",Reddit,SQL,SQL,,,,,,,
+I am a developer by profession,25,Man,United States,No,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Reddit,Java,Dart,Firebase,Couchbase,Android,Android,,Angular/Angular.js,Android Studio
+I am a developer by profession,27,Man,Cape Verde,No,"Professional degree (JD, MD, etc.)",Facebook,JavaScript,Java,MySQL,DynamoDB,AWS,Arduino,,Express,Sublime Text
+I am a developer by profession,30,Man,Portugal,No,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Reddit,Kotlin,JavaScript,PostgreSQL,Elasticsearch,Heroku,AWS,,jQuery,Visual Studio
+I am a developer by profession,25,Man,Italy,"Yes, part-time",Some college/university study without earning a degree,Reddit,PHP,Kotlin,SQLite,Firebase,MacOS,Docker,,Laravel,
+I am a developer by profession,23,Woman,Pakistan,No,"Bachelor’s degree (BA, BS, B.Eng., etc.)",LinkedIn,SQL,PHP,,MariaDB,,Google Cloud Platform,,React.js,
+I am a developer by profession,32,Man,United States,No,"Other doctoral degree (Ph.D, Ed.D., etc.)",Twitter,,Python,,MongoDB,,Heroku,,,
+I am a developer by profession,23,Man,United States,No,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Facebook,,SQL,,MySQL,,IBM Cloud or Watson,,,
+I am a developer by profession,25,Man,United States,No,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Reddit,,,,PostgreSQL,,MacOS,,,
+I am a developer by profession,32,Woman,United Kingdom,No,"Master’s degree (MA, MS, M.Eng., MBA, etc.)",Instagram,,,,Redis,,Raspberry Pi,,,
+I am a developer by profession,30,Man,United States,No,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Reddit,,,,SQLite,,Slack,,,
+I am a developer by profession,20,Man,Serbia,No,Some college/university study without earning a degree,WhatsApp,,,,,,WordPress,,,
+I am a developer by profession,46,Man,Spain,No,"Other doctoral degree (Ph.D, Ed.D., etc.)",I don't use social media,Java,HTML/CSS,Oracle,Oracle,Windows,Docker,Spring,Spring,NetBeans
+I am a developer by profession,28,Man,France,No,"Master’s degree (MA, MS, M.Eng., MBA, etc.)",Reddit,SQL,Java,,,,Windows,,,Notepad++
+I am a developer by profession,23,Man,Nigeria,No,"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)",Facebook,,SQL,,,,,,,
+I am a developer by profession,28,Woman,India,"Yes, full-time","Master’s degree (MA, MS, M.Eng., MBA, etc.)",WhatsApp,HTML/CSS,Kotlin,MySQL,MongoDB,AWS,AWS,Angular/Angular.js,Angular/Angular.js,IntelliJ
+I am a developer by profession,22,Man,Burundi,No,"Bachelor’s degree (BA, BS, B.Eng., etc.)",YouTube,Java,,,,Docker,Docker,Express,Express,Vim
+I am a developer by profession,,Man,Canada,No,"Master’s degree (MA, MS, M.Eng., MBA, etc.)",YouTube,JavaScript,,,,Linux,Linux,Spring,Spring,
+I am a developer by profession,21,Man,Brazil,"Yes, part-time",Some college/university study without earning a degree,Instagram,Kotlin,,,,,,,,
+I am a developer by profession,25,Man,Bangladesh,"Yes, full-time","Master’s degree (MA, MS, M.Eng., MBA, etc.)",WhatsApp,HTML/CSS,HTML/CSS,MySQL,,,,Express,React.js,Visual Studio Code
+I am a developer by profession,28,Man,Canada,No,"Master’s degree (MA, MS, M.Eng., MBA, etc.)",Facebook,JavaScript,JavaScript,,,,,React.js,,
+I am a developer by profession,26,Man,Serbia,"Yes, full-time","Master’s degree (MA, MS, M.Eng., MBA, etc.)",Reddit,TypeScript,Python,,,,,,,
+I am a developer by profession,25,Man,United Kingdom,No,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Facebook,,TypeScript,,,,,,,
+I am a developer by profession,25,Man,Russian Federation,No,"Master’s degree (MA, MS, M.Eng., MBA, etc.)",,,WebAssembly,,,,,,,
+I am a developer by profession,28,Man,Finland,No,"Master’s degree (MA, MS, M.Eng., MBA, etc.)",YouTube,Bash/Shell/PowerShell,Bash/Shell/PowerShell,Elasticsearch,Elasticsearch,Android,Android,Angular/Angular.js,,Android Studio
+I am a developer by profession,25,Man,United States,No,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Instagram,C++,C++,MongoDB,MongoDB,AWS,AWS,React.js,,Notepad++
+I am a developer by profession,20,Man,Nigeria,"Yes, full-time","Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)",Twitter,C#,C#,Microsoft SQL Server,Microsoft SQL Server,Docker,Docker,,,Visual Studio
+I am a developer by profession,51,Man,Mexico,No,Some college/university study without earning a degree,Facebook,HTML/CSS,Go,MySQL,,Linux,Kubernetes,,,Visual Studio Code
+I am a developer by profession,38,Man,Canada,No,"Master’s degree (MA, MS, M.Eng., MBA, etc.)",Twitter,Java,Java,,,Microsoft Azure,Linux,,,
+I am a developer by profession,41,Man,United States,No,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Twitter,JavaScript,Kotlin,,,Windows,Microsoft Azure,,,
+I am a developer by profession,33,Man,Ukraine,No,"Master’s degree (MA, MS, M.Eng., MBA, etc.)",Facebook,SQL,Python,,,,Windows,,,
+I am a developer by profession,20,Man,France,No,"Professional degree (JD, MD, etc.)",Instagram,TypeScript,SQL,,,,,,,
+I am a developer by profession,32,Man,United States,No,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Reddit,,TypeScript,,,,,,,
+I am a developer by profession,28,Man,France,No,"Master’s degree (MA, MS, M.Eng., MBA, etc.)",Reddit,Bash/Shell/PowerShell,Bash/Shell/PowerShell,,,AWS,AWS,Express,React.js,Visual Studio Code
+I am a developer by profession,28,Man,United Kingdom,"Yes, full-time","Master’s degree (MA, MS, M.Eng., MBA, etc.)",Twitter,HTML/CSS,HTML/CSS,,,Docker,Docker,React.js,,
+"I am not primarily a developer, but I write code sometimes as part of my work",31,Man,Poland,No,"Bachelor’s degree (BA, BS, B.Eng., etc.)",LinkedIn,JavaScript,JavaScript,,,,,,,
+I am a developer by profession,20,Man,United Kingdom,No,Some college/university study without earning a degree,YouTube,TypeScript,TypeScript,,,,,,,
+I am a developer by profession,22,Man,Bulgaria,No,Some college/university study without earning a degree,Facebook,Bash/Shell/PowerShell,Bash/Shell/PowerShell,Microsoft SQL Server,MongoDB,AWS,AWS,ASP.NET,ASP.NET,Notepad++
+I am a developer by profession,32,Man,Bangladesh,"Yes, full-time","Bachelor’s degree (BA, BS, B.Eng., etc.)",LinkedIn,C#,C#,MySQL,Microsoft SQL Server,,,Vue.js,Vue.js,Visual Studio
+I am a developer by profession,33,Man,United States,No,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Facebook,HTML/CSS,HTML/CSS,,MySQL,,,Other(s):,,Visual Studio Code
+"I am not primarily a developer, but I write code sometimes as part of my work",34,Man,Bulgaria,No,Some college/university study without earning a degree,Twitter,JavaScript,JavaScript,,,,,,,
+I am a developer by profession,27,Man,Brazil,"Yes, full-time","Bachelor’s degree (BA, BS, B.Eng., etc.)",LinkedIn,SQL,SQL,,,,,,,
+I am a developer by profession,38,Man,United States,No,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Twitter,,TypeScript,,,,,,,
+I am a developer by profession,31,Man,United Kingdom,No,"Bachelor’s degree (BA, BS, B.Eng., etc.)",WhatsApp,Java,Java,Oracle,Cassandra,Linux,Linux,Other(s):,Drupal,Eclipse
+I am a developer by profession,22,Man,United Kingdom,No,Some college/university study without earning a degree,Reddit,SQL,SQL,,,Windows,Windows,,Spring,IntelliJ
+I am a developer by profession,28,Man,United Kingdom,No,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Reddit,Other(s):,,,,,,,Other(s):,Notepad++
+I am a developer by profession,27,Man,United States,No,"Other doctoral degree (Ph.D, Ed.D., etc.)",Reddit,Bash/Shell/PowerShell,Bash/Shell/PowerShell,Oracle,Elasticsearch,Docker,Android,Django,Django,IPython / Jupyter
+I am a developer by profession,32,Man,United States,No,"Bachelor’s degree (BA, BS, B.Eng., etc.)",I don't use social media,HTML/CSS,Clojure,PostgreSQL,PostgreSQL,Linux,Arduino,React.js,React.js,Vim
+I am a developer by profession,24,Man,Greece,"Yes, full-time",,Instagram,JavaScript,Go,SQLite,Redis,Raspberry Pi,Docker,,Vue.js,
+I am a developer by profession,42,Man,France,No,,YouTube,Python,HTML/CSS,,SQLite,,Linux,,,
+I am a developer by profession,38,Man,Sweden,No,Some college/university study without earning a degree,Reddit,,JavaScript,,,,Raspberry Pi,,,
+I am a developer by profession,23,Woman,Bulgaria,"Yes, full-time","Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)",LinkedIn,,Python,,,,,,,
+I am a developer by profession,40,Man,United States,No,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Twitter,C#,Assembly,Microsoft SQL Server,Microsoft SQL Server,,Android,ASP.NET,ASP.NET,Visual Studio
+I am a developer by profession,26,Man,United States,No,"Bachelor’s degree (BA, BS, B.Eng., etc.)",LinkedIn,HTML/CSS,Bash/Shell/PowerShell,,Redis,,,jQuery,jQuery,
+I am a developer by profession,28,Man,New Zealand,No,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Facebook,JavaScript,C#,,,,,React.js,React.js,
+I am a developer by profession,35,Man,Australia,No,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Instagram,SQL,HTML/CSS,,,,,,,
+I am a developer by profession,29,Man,Spain,No,"Bachelor’s degree (BA, BS, B.Eng., etc.)",WhatsApp,Other(s):,JavaScript,,,,,,,
+I am a developer by profession,22,Man,India,No,"Bachelor’s degree (BA, BS, B.Eng., etc.)",YouTube,,SQL,,,,,,,
+I am a developer by profession,36,Man,Canada,No,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Reddit,,Other(s):,,,,,,,
+I am a developer by profession,53,Man,United States,No,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Reddit,C#,C#,Microsoft SQL Server,MongoDB,Raspberry Pi,Android,ASP.NET,ASP.NET,Notepad++
+I am a developer by profession,22,Man,Portugal,"Yes, part-time","Bachelor’s degree (BA, BS, B.Eng., etc.)",Instagram,HTML/CSS,F#,,Microsoft SQL Server,WordPress,Arduino,jQuery,jQuery,Visual Studio
+I am a developer by profession,28,Man,United States,No,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Reddit,JavaScript,HTML/CSS,,,,Docker,Vue.js,React.js,Visual Studio Code
+I am a developer by profession,45,Man,United States,No,Some college/university study without earning a degree,Reddit,SQL,JavaScript,,,,Kubernetes,,Vue.js,
+I am a developer by profession,27,Man,Ukraine,No,"Master’s degree (MA, MS, M.Eng., MBA, etc.)",YouTube,,Python,,,,Microsoft Azure,,,
+"I am not primarily a developer, but I write code sometimes as part of my work",40,Man,Italy,No,"Master’s degree (MA, MS, M.Eng., MBA, etc.)",WhatsApp,,SQL,,,,Raspberry Pi,,,
+I am a developer by profession,35,Man,Slovenia,No,"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)",Reddit,,TypeScript,,,,,,,
+I am a developer by profession,29,Man,Netherlands,No,Some college/university study without earning a degree,WhatsApp,Bash/Shell/PowerShell,Bash/Shell/PowerShell,DynamoDB,PostgreSQL,AWS,AWS,jQuery,React.js,Vim
+I am a developer by profession,20,Man,Germany,"Yes, full-time","Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)",Reddit,Go,HTML/CSS,Elasticsearch,Redis,Docker,Docker,React.js,Ruby on Rails,
+I am a developer by profession,36,Man,United States,No,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Instagram,HTML/CSS,Java,MongoDB,SQLite,Linux,iOS,Ruby on Rails,,
+I am a developer by profession,25,Man,Netherlands,No,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Facebook,Java,JavaScript,PostgreSQL,,,Kubernetes,,,
+I am a developer by profession,25,"Non-binary, genderqueer, or gender non-conforming",United Kingdom,No,"Master’s degree (MA, MS, M.Eng., MBA, etc.)",Twitter,JavaScript,Ruby,Redis,,,Linux,,,
+I am a developer by profession,25,Man,India,No,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Instagram,Ruby,Rust,SQLite,,,,,,
+I am a developer by profession,27,Man,Mexico,No,Some college/university study without earning a degree,Twitter,SQL,SQL,,,,,,,
+I am a developer by profession,26,Woman,United States,No,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Reddit,,Swift,,,,,,,
+I am a developer by profession,27,Man,Iran,No,"Master’s degree (MA, MS, M.Eng., MBA, etc.)",Twitter,HTML/CSS,JavaScript,Elasticsearch,Elasticsearch,AWS,AWS,Angular/Angular.js,Angular/Angular.js,PHPStorm
+I am a developer by profession,26,Man,Turkey,No,"Bachelor’s degree (BA, BS, B.Eng., etc.)",WhatsApp,JavaScript,PHP,MySQL,MySQL,Docker,Docker,Express,Express,
+I am a developer by profession,,Man,Slovenia,No,"Master’s degree (MA, MS, M.Eng., MBA, etc.)",YouTube,PHP,SQL,,,Kubernetes,Kubernetes,React.js,,
+I am a developer by profession,32,Woman,Nigeria,No,"Master’s degree (MA, MS, M.Eng., MBA, etc.)",Twitter,SQL,TypeScript,,,,,,,
+I am a developer by profession,25,Man,Germany,No,Some college/university study without earning a degree,Reddit,TypeScript,,,,,,,,
+I am a developer by profession,27,Man,United States,"Yes, part-time","Bachelor’s degree (BA, BS, B.Eng., etc.)",Twitter,Bash/Shell/PowerShell,C,Firebase,Microsoft SQL Server,Android,Android,Angular/Angular.js,Django,Android Studio
+I am a developer by profession,24,Man,Italy,No,"Master’s degree (MA, MS, M.Eng., MBA, etc.)",WhatsApp,C,C++,MongoDB,MySQL,Arduino,Arduino,ASP.NET,Flask,IPython / Jupyter
+I am a developer by profession,29,Man,Austria,No,"Master’s degree (MA, MS, M.Eng., MBA, etc.)",WhatsApp,C++,HTML/CSS,Microsoft SQL Server,PostgreSQL,Docker,Docker,Django,jQuery,Visual Studio Code
+I am a developer by profession,26,Man,United States,No,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Reddit,HTML/CSS,JavaScript,MySQL,SQLite,Linux,Kubernetes,Flask,Laravel,
+"I am not primarily a developer, but I write code sometimes as part of my work",34,Man,United States,No,"Master’s degree (MA, MS, M.Eng., MBA, etc.)",LinkedIn,Java,PHP,Oracle,,Microsoft Azure,Linux,jQuery,Vue.js,
+I am a developer by profession,29,Man,Norway,No,"Bachelor’s degree (BA, BS, B.Eng., etc.)",I don't use social media,JavaScript,Python,PostgreSQL,,Raspberry Pi,Raspberry Pi,Laravel,,
+I am a developer by profession,50,Man,United States,No,Some college/university study without earning a degree,Facebook,PHP,,SQLite,,Windows,Windows,React.js,,
+I am a developer by profession,26,Man,United States,No,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Instagram,Python,,,,WordPress,,,,
+I am a developer by profession,43,Man,India,No,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Instagram,R,,,,,,,,
+I am a developer by profession,40,Woman,United States,No,"Bachelor’s degree (BA, BS, B.Eng., etc.)",LinkedIn,C,C++,MongoDB,MongoDB,Android,Android,Angular/Angular.js,Angular/Angular.js,Atom
+I am a developer by profession,31,Man,Japan,No,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Reddit,C++,HTML/CSS,Microsoft SQL Server,Microsoft SQL Server,AWS,AWS,Django,Django,Eclipse
+"I am not primarily a developer, but I write code sometimes as part of my work",21,"Non-binary, genderqueer, or gender non-conforming",United States,No,"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)",Twitter,C#,Java,Oracle,Oracle,Docker,Docker,Flask,Flask,IntelliJ
+I am a developer by profession,37,Man,Italy,No,"Master’s degree (MA, MS, M.Eng., MBA, etc.)",LinkedIn,HTML/CSS,JavaScript,PostgreSQL,PostgreSQL,Linux,Linux,React.js,React.js,IPython / Jupyter
+I am a developer by profession,44,Man,United States,No,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Twitter,Java,Python,Redis,Redis,Windows,Windows,Vue.js,Vue.js,NetBeans
+I am a developer by profession,35,Man,France,No,"Master’s degree (MA, MS, M.Eng., MBA, etc.)",Instagram,JavaScript,SQL,SQLite,SQLite,,,,,Notepad++
+I am a developer by profession,32,Man,Bangladesh,No,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Facebook,Python,,,,,,,,PyCharm
+I am a developer by profession,21,Man,Poland,"Yes, full-time",Some college/university study without earning a degree,Reddit,SQL,,,,,,,,Sublime Text
+I am a developer by profession,40,Man,Netherlands,No,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Twitter,,,,,,,,,Vim
+I am a developer by profession,28,Man,Iran,No,"Bachelor’s degree (BA, BS, B.Eng., etc.)",,,,,,,,,,Visual Studio
+I am a developer by profession,25,Man,Colombia,"Yes, part-time","Professional degree (JD, MD, etc.)",Instagram,,,,,,,,,Visual Studio Code
+I am a developer by profession,34,Man,United States,No,"Bachelor’s degree (BA, BS, B.Eng., etc.)",YouTube,C#,C#,Microsoft SQL Server,Microsoft SQL Server,Android,Android,ASP.NET,ASP.NET,PyCharm
+I am a developer by profession,,Man,Spain,No,"Master’s degree (MA, MS, M.Eng., MBA, etc.)",WhatsApp,Python,Python,MySQL,SQLite,Microsoft Azure,Microsoft Azure,,,Sublime Text
+I am a developer by profession,38,Man,Luxembourg,"Yes, full-time","Master’s degree (MA, MS, M.Eng., MBA, etc.)",Facebook,SQL,SQL,SQLite,,Windows,Windows,,,Visual Studio
+"I am not primarily a developer, but I write code sometimes as part of my work",31,Man,Mexico,No,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Twitter,,,,,,,,,Visual Studio Code
+I am a developer by profession,29,Woman,Germany,No,"Master’s degree (MA, MS, M.Eng., MBA, etc.)",YouTube,HTML/CSS,C#,Firebase,Couchbase,Android,Android,React.js,React.js,Android Studio
+"I am not primarily a developer, but I write code sometimes as part of my work",29,Man,Ukraine,No,"Master’s degree (MA, MS, M.Eng., MBA, etc.)",Reddit,Java,HTML/CSS,MongoDB,MongoDB,Docker,Docker,,Vue.js,IntelliJ
+I am a developer by profession,27,Man,Brazil,No,"Master’s degree (MA, MS, M.Eng., MBA, etc.)",Facebook,JavaScript,JavaScript,MySQL,PostgreSQL,iOS,iOS,,,PyCharm
+I am a developer by profession,40,Man,Canada,No,"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)",Twitter,Objective-C,Kotlin,PostgreSQL,,,,,,Visual Studio Code
+I am a developer by profession,35,Man,Guatemala,"Yes, part-time","Bachelor’s degree (BA, BS, B.Eng., etc.)",Facebook,SQL,Swift,,,,,,,
+I am a developer by profession,39,Man,Germany,No,"Master’s degree (MA, MS, M.Eng., MBA, etc.)",Facebook,Swift,,,,,,,,
+I am a developer by profession,37,Man,Canada,No,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Twitter,HTML/CSS,HTML/CSS,,,iOS,AWS,Angular/Angular.js,Express,IntelliJ
+I am a developer by profession,28,Man,Turkey,No,Some college/university study without earning a degree,YouTube,JavaScript,JavaScript,,,MacOS,Docker,,React.js,Visual Studio Code
+"I am not primarily a developer, but I write code sometimes as part of my work",27,Woman,Bulgaria,"Yes, part-time","Master’s degree (MA, MS, M.Eng., MBA, etc.)",Reddit,,Rust,,,Slack,iOS,,,
+I am a developer by profession,22,Man,Dominican Republic,"Yes, full-time",Associate degree,WhatsApp,,TypeScript,,,,Kubernetes,,,
+I am a developer by profession,24,Man,India,No,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Facebook,,,,,,MacOS,,,
+I am a developer by profession,38,Man,United States,No,"Master’s degree (MA, MS, M.Eng., MBA, etc.)",I don't use social media,,,,,,Slack,,,
+I am a developer by profession,28,Man,Turkey,No,Some college/university study without earning a degree,YouTube,Dart,Dart,Firebase,Other(s):,Android,Android,,,Android Studio
+I am a developer by profession,28,Man,Germany,No,"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)",Twitter,Go,Java,Other(s):,,iOS,iOS,,,IntelliJ
+I am a developer by profession,19,Man,Spain,"Yes, part-time",Some college/university study without earning a degree,Reddit,Java,Kotlin,,,Other(s):,Linux,,,Notepad++
+I am a developer by profession,26,Man,United Kingdom,No,Some college/university study without earning a degree,WhatsApp,Kotlin,Swift,,,,MacOS,,,Visual Studio Code
+I am a developer by profession,33,Man,Australia,No,"Other doctoral degree (Ph.D, Ed.D., etc.)",YouTube,Swift,,,,,Windows,,,Xcode
+I am a developer by profession,,Man,Canada,No,"Bachelor’s degree (BA, BS, B.Eng., etc.)",YouTube,,,,,,Other(s):,,,
+I am a developer by profession,20,Man,Colombia,No,"Professional degree (JD, MD, etc.)",WhatsApp,Bash/Shell/PowerShell,C,SQLite,Elasticsearch,Android,Linux,Other(s):,,Android Studio
+I am a developer by profession,30,Man,United States,No,"Bachelor’s degree (BA, BS, B.Eng., etc.)",YouTube,C,C++,,PostgreSQL,iOS,,,,IntelliJ
+I am a developer by profession,,,Italy,No,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Reddit,C++,Java,,,Linux,,,,PyCharm
+I am a developer by profession,38,Man,United Kingdom,No,"Bachelor’s degree (BA, BS, B.Eng., etc.)",YouTube,Java,Kotlin,,,Windows,,,,Vim
+I am a developer by profession,42,Man,United States,No,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Instagram,JavaScript,Python,,,Other(s):,,,,Visual Studio
+I am a developer by profession,25,"Non-binary, genderqueer, or gender non-conforming",Mexico,No,I never completed any formal education,Reddit,Kotlin,Rust,,,,,,,Visual Studio Code
+I am a developer by profession,26,Man,India,No,"Bachelor’s degree (BA, BS, B.Eng., etc.)",WhatsApp,Objective-C,TypeScript,,,,,,,Xcode
+I am a developer by profession,22,Man,Canada,"Yes, full-time","Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)",Reddit,Python,,,,,,,,
+I am a developer by profession,27,Man,Taiwan,No,"Bachelor’s degree (BA, BS, B.Eng., etc.)",I don't use social media,Rust,,,,,,,,
+I am a developer by profession,37,Man,Serbia,No,"Master’s degree (MA, MS, M.Eng., MBA, etc.)",Twitter,Swift,,,,,,,,
+I am a developer by profession,,Man,United Kingdom,No,"Master’s degree (MA, MS, M.Eng., MBA, etc.)",Reddit,C#,C++,Microsoft SQL Server,MongoDB,Windows,Linux,ASP.NET,ASP.NET,PyCharm
+I am a developer by profession,28,Man,Germany,No,"Master’s degree (MA, MS, M.Eng., MBA, etc.)",YouTube,Python,C#,,Microsoft SQL Server,,Microsoft Azure,,,RStudio
+I am a developer by profession,27,Man,United States,No,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Reddit,R,Python,,,,Windows,,,Visual Studio
+I am a developer by profession,30,Man,Yemen,No,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Facebook,SQL,R,,,,,,,Visual Studio Code
+I am a developer by profession,24,Man,France,No,Some college/university study without earning a degree,Twitter,VBA,SQL,,,,,,,
+I am a developer by profession,29,Man,Belgium,No,"Master’s degree (MA, MS, M.Eng., MBA, etc.)",Reddit,,VBA,,,,,,,
+I am a developer by profession,24,Man,Argentina,"Yes, part-time",Some college/university study without earning a degree,WhatsApp,C++,Go,MySQL,Cassandra,AWS,AWS,,Flask,IPython / Jupyter
+I am a developer by profession,28,Man,Singapore,"Yes, full-time","Bachelor’s degree (BA, BS, B.Eng., etc.)",WhatsApp,HTML/CSS,Python,PostgreSQL,Elasticsearch,Google Cloud Platform,Docker,,,Visual Studio Code
+I am a developer by profession,36,Man,United States,No,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Facebook,JavaScript,SQL,,Firebase,Linux,Google Cloud Platform,,,
+I am a developer by profession,25,Man,United States,No,Some college/university study without earning a degree,,Python,,,,MacOS,Heroku,,,
+I am a developer by profession,23,Man,Iran,No,"Master’s degree (MA, MS, M.Eng., MBA, etc.)",Instagram,SQL,,,,,MacOS,,,
+"I am not primarily a developer, but I write code sometimes as part of my work",30,Man,Switzerland,No,"Other doctoral degree (Ph.D, Ed.D., etc.)",WhatsApp,Java,HTML/CSS,Elasticsearch,Cassandra,AWS,AWS,Angular/Angular.js,Django,Atom
+I am a developer by profession,29,Man,United States,No,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Twitter,Scala,Python,Microsoft SQL Server,MongoDB,Linux,Linux,Spring,Spring,Eclipse
+I am a developer by profession,42,Man,United States,No,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Facebook,SQL,R,MySQL,,Windows,,,,Notepad++
+"I am not primarily a developer, but I write code sometimes as part of my work",44,Man,Indonesia,No,"Master’s degree (MA, MS, M.Eng., MBA, etc.)",Reddit,TypeScript,,Oracle,,,,,,
+I am a developer by profession,33,Man,Switzerland,No,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Reddit,,,PostgreSQL,,,,,,
+I am a developer by profession,27,Man,Iran,No,"Master’s degree (MA, MS, M.Eng., MBA, etc.)",YouTube,,,Redis,,,,,,
+I am a developer by profession,28,Man,France,No,"Master’s degree (MA, MS, M.Eng., MBA, etc.)",YouTube,C#,Bash/Shell/PowerShell,Microsoft SQL Server,MongoDB,AWS,Linux,Angular/Angular.js,Angular/Angular.js,Vim
+I am a developer by profession,37,Man,Colombia,No,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Instagram,HTML/CSS,HTML/CSS,,,Microsoft Azure,Microsoft Azure,ASP.NET,ASP.NET,Visual Studio
+I am a developer by profession,33,Man,United States,No,"Bachelor’s degree (BA, BS, B.Eng., etc.)",I don't use social media,JavaScript,JavaScript,,,Windows,,,Vue.js,Visual Studio Code
+I am a developer by profession,27,Woman,Belarus,No,"Bachelor’s degree (BA, BS, B.Eng., etc.)",YouTube,SQL,Rust,,,,,,,
+I am a developer by profession,40,Man,South Africa,No,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Instagram,TypeScript,SQL,,,,,,,
+I am a developer by profession,28,Man,United States,No,"Master’s degree (MA, MS, M.Eng., MBA, etc.)",Reddit,,WebAssembly,,,,,,,
+I am a developer by profession,26,Man,Canada,No,"Master’s degree (MA, MS, M.Eng., MBA, etc.)",YouTube,Bash/Shell/PowerShell,Bash/Shell/PowerShell,Elasticsearch,Elasticsearch,Docker,Docker,Django,Django,Vim
+I am a developer by profession,49,Man,United States,No,"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)",Twitter,JavaScript,Python,PostgreSQL,PostgreSQL,Google Cloud Platform,Google Cloud Platform,React.js,React.js,Visual Studio Code
+"I am not primarily a developer, but I write code sometimes as part of my work",36,Man,Canada,No,Some college/university study without earning a degree,Reddit,Python,Scala,Redis,Redis,Kubernetes,Kubernetes,,,
+I am a developer by profession,23,Man,India,No,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Twitter,,,,,Linux,Linux,,,
+I am a developer by profession,34,Man,United States,No,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Twitter,,,,,Raspberry Pi,Raspberry Pi,,,
+"I am not primarily a developer, but I write code sometimes as part of my work",27,Man,Malaysia,"Yes, part-time","Bachelor’s degree (BA, BS, B.Eng., etc.)",Facebook,,,,,Slack,Slack,,,
+I am a developer by profession,31,Man,Greece,No,Some college/university study without earning a degree,Twitter,Assembly,Bash/Shell/PowerShell,MySQL,,Arduino,Linux,jQuery,,IntelliJ
+I am a developer by profession,29,Man,France,No,"Master’s degree (MA, MS, M.Eng., MBA, etc.)",I don't use social media,Bash/Shell/PowerShell,C,,,Linux,Raspberry Pi,,,Notepad++
+I am a developer by profession,26,Man,Norway,No,"Bachelor’s degree (BA, BS, B.Eng., etc.)",,C,HTML/CSS,,,Raspberry Pi,Windows,,,Vim
+I am a developer by profession,20,Man,Brazil,"Yes, part-time","Bachelor’s degree (BA, BS, B.Eng., etc.)",Instagram,HTML/CSS,Java,,,Windows,Other(s):,,,Visual Studio
+"I am not primarily a developer, but I write code sometimes as part of my work",57,Man,United Kingdom,No,Some college/university study without earning a degree,I don't use social media,Java,PHP,,,Other(s):,,,,
+I am a developer by profession,38,Man,United States,"Yes, full-time",Some college/university study without earning a degree,LinkedIn,JavaScript,,,,,,,,
+I am a developer by profession,27,Man,Sweden,No,"Bachelor’s degree (BA, BS, B.Eng., etc.)",YouTube,PHP,,,,,,,,
+I am a developer by profession,28,Woman,Brazil,No,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Twitter,C#,F#,Microsoft SQL Server,Elasticsearch,Windows,AWS,ASP.NET,React.js,Notepad++
+I am a developer by profession,32,Man,New Zealand,No,"Professional degree (JD, MD, etc.)",Reddit,HTML/CSS,,,MongoDB,,Docker,jQuery,Vue.js,Visual Studio
+I am a developer by profession,28,Man,Colombia,"Yes, part-time","Master’s degree (MA, MS, M.Eng., MBA, etc.)",WhatsApp,JavaScript,,,Redis,,Kubernetes,,,Visual Studio Code
+I am a developer by profession,29,Man,United States,No,"Master’s degree (MA, MS, M.Eng., MBA, etc.)",WhatsApp,SQL,,,,,,,,
+I am a developer by profession,26,Man,Sweden,No,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Reddit,TypeScript,,,,,,,,
+I am a developer by profession,31,Man,United States,"Yes, full-time","Bachelor’s degree (BA, BS, B.Eng., etc.)",Twitter,Bash/Shell/PowerShell,Go,Microsoft SQL Server,Cassandra,Docker,Android,Django,Angular/Angular.js,IntelliJ
+I am a developer by profession,34,Man,United States,No,"Master’s degree (MA, MS, M.Eng., MBA, etc.)",LinkedIn,Go,HTML/CSS,MySQL,Firebase,Google Cloud Platform,AWS,Flask,Django,PyCharm
+I am a developer by profession,22,Woman,Hungary,"Yes, full-time","Bachelor’s degree (BA, BS, B.Eng., etc.)",Twitter,HTML/CSS,Python,Oracle,MongoDB,,Kubernetes,jQuery,jQuery,Visual Studio Code
+I am a developer by profession,25,Man,Philippines,No,Some college/university study without earning a degree,Facebook,Java,,PostgreSQL,MySQL,,,Spring,,
+I am a developer by profession,38,Man,United States,No,"Master’s degree (MA, MS, M.Eng., MBA, etc.)",Facebook,JavaScript,,,PostgreSQL,,,,,
+I am a developer by profession,27,Man,New Zealand,No,"Bachelor’s degree (BA, BS, B.Eng., etc.)",,Python,,,,,,,,
+I am a developer by profession,37,Man,United States,No,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Instagram,Scala,,,,,,,,
+I am a developer by profession,32,Man,United States,No,"Master’s degree (MA, MS, M.Eng., MBA, etc.)",YouTube,Bash/Shell/PowerShell,Bash/Shell/PowerShell,Microsoft SQL Server,MongoDB,Google Cloud Platform,Docker,Angular/Angular.js,Angular/Angular.js,Sublime Text
+I am a developer by profession,27,Man,Spain,"Yes, part-time","Master’s degree (MA, MS, M.Eng., MBA, etc.)",,C,C,SQLite,Microsoft SQL Server,Linux,Google Cloud Platform,jQuery,,
+I am a developer by profession,34,Man,Italy,"Yes, part-time","Master’s degree (MA, MS, M.Eng., MBA, etc.)",Reddit,C++,C++,,SQLite,MacOS,Linux,,,
+I am a developer by profession,39,Man,Spain,No,"Bachelor’s degree (BA, BS, B.Eng., etc.)",,C#,Objective-C,,,Windows,MacOS,,,
+I am a developer by profession,25,Man,United States,No,"Bachelor’s degree (BA, BS, B.Eng., etc.)",WeChat 微信,HTML/CSS,Python,,,,Windows,,,
+I am a developer by profession,42,Man,United Kingdom,No,Some college/university study without earning a degree,Facebook,Java,,,,,,,,
+I am a developer by profession,23,Man,India,No,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Reddit,JavaScript,,,,,,,,
+I am a developer by profession,38,Man,Spain,No,"Professional degree (JD, MD, etc.)",WhatsApp,Objective-C,,,,,,,,
+I am a developer by profession,22,Man,United States,"Yes, full-time",Primary/elementary school,YouTube,Python,,,,,,,,
+I am a developer by profession,34,Man,Spain,No,"Master’s degree (MA, MS, M.Eng., MBA, etc.)",Twitter,SQL,,,,,,,,
+I am a developer by profession,37,Man,United States,No,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Twitter,TypeScript,,,,,,,,
+I am a developer by profession,37,Man,United States,No,"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)",Reddit,Java,Dart,Firebase,Firebase,Android,Android,,,Android Studio
+I am a developer by profession,29,Man,United States,No,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Instagram,,Java,,,Docker,Docker,,,
+I am a developer by profession,52,Man,United States,No,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Facebook,,JavaScript,,,Google Cloud Platform,Google Cloud Platform,,,
+I am a developer by profession,26,Man,Romania,No,"Bachelor’s degree (BA, BS, B.Eng., etc.)",YouTube,,Kotlin,,,,,,,
+I am a developer by profession,28,Man,United States,No,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Reddit,Bash/Shell/PowerShell,Bash/Shell/PowerShell,MySQL,MySQL,Linux,AWS,,,Atom
+I am a developer by profession,46,Man,United States,No,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Twitter,HTML/CSS,Python,,Redis,,iOS,,,Notepad++
+I am a developer by profession,23,Man,United Kingdom,No,"Bachelor’s degree (BA, BS, B.Eng., etc.)",YouTube,JavaScript,SQL,,,,Linux,,,Sublime Text
+I am a developer by profession,28,"Non-binary, genderqueer, or gender non-conforming",United Kingdom,No,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Twitter,PHP,,,,,Raspberry Pi,,,
+"I am not primarily a developer, but I write code sometimes as part of my work",29,Woman,United States,No,Some college/university study without earning a degree,Instagram,Python,,,,,,,,
+I am a developer by profession,,Man,India,No,"Master’s degree (MA, MS, M.Eng., MBA, etc.)",Twitter,SQL,,,,,,,,
+"I am not primarily a developer, but I write code sometimes as part of my work",59,Man,United States,No,"Other doctoral degree (Ph.D, Ed.D., etc.)",Twitter,C#,Other(s):,Microsoft SQL Server,,Android,Android,ASP.NET,ASP.NET,Android Studio
+I am a developer by profession,25,Man,Slovakia,"Yes, part-time","Bachelor’s degree (BA, BS, B.Eng., etc.)",YouTube,HTML/CSS,,SQLite,,iOS,AWS,jQuery,jQuery,Notepad++
+I am a developer by profession,36,Man,Norway,No,"Bachelor’s degree (BA, BS, B.Eng., etc.)",YouTube,Java,,,,Slack,Google Cloud Platform,,,Sublime Text
+I am a developer by profession,23,Man,Sweden,No,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Facebook,JavaScript,,,,,iOS,,,Visual Studio
+I am a developer by profession,35,Man,United States,No,"Other doctoral degree (Ph.D, Ed.D., etc.)",Facebook,Objective-C,,,,,Microsoft Azure,,,Xcode
+I am a developer by profession,35,Man,Canada,No,Associate degree,Twitter,SQL,,,,,,,,
+I am a developer by profession,23,Man,United Kingdom,No,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Facebook,C#,HTML/CSS,MariaDB,MariaDB,Android,Arduino,jQuery,jQuery,Android Studio
+I am a developer by profession,23,Man,United Kingdom,No,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Facebook,HTML/CSS,Java,MySQL,MySQL,Arduino,Docker,Other(s):,Other(s):,Atom
+I am a developer by profession,24,Woman,India,No,"Bachelor’s degree (BA, BS, B.Eng., etc.)",WhatsApp,Java,JavaScript,,,Docker,Google Cloud Platform,,,IntelliJ
+"I am not primarily a developer, but I write code sometimes as part of my work",28,Man,United States,No,"Master’s degree (MA, MS, M.Eng., MBA, etc.)",Reddit,JavaScript,PHP,,,Google Cloud Platform,Linux,,,PHPStorm
+I am a developer by profession,33,Man,Germany,No,"Master’s degree (MA, MS, M.Eng., MBA, etc.)",Facebook,PHP,,,,Linux,Raspberry Pi,,,
+I am a developer by profession,29,Man,United States,No,"Master’s degree (MA, MS, M.Eng., MBA, etc.)",Instagram,,,,,Raspberry Pi,WordPress,,,
+"I am not primarily a developer, but I write code sometimes as part of my work",30,Man,France,No,"Master’s degree (MA, MS, M.Eng., MBA, etc.)",YouTube,,,,,WordPress,,,,
+"I am not primarily a developer, but I write code sometimes as part of my work",39,Man,Poland,No,"Master’s degree (MA, MS, M.Eng., MBA, etc.)",LinkedIn,Go,Go,DynamoDB,DynamoDB,AWS,AWS,Django,Django,Notepad++
+I am a developer by profession,35,Man,United Kingdom,No,"Bachelor’s degree (BA, BS, B.Eng., etc.)",LinkedIn,Python,JavaScript,MariaDB,Elasticsearch,Linux,Linux,Flask,Flask,PyCharm
+"I am not primarily a developer, but I write code sometimes as part of my work",61,Man,United States,No,"Bachelor’s degree (BA, BS, B.Eng., etc.)",LinkedIn,,Kotlin,MySQL,PostgreSQL,,Microsoft Azure,,,Vim
+I am a developer by profession,39,Man,United States,No,"Master’s degree (MA, MS, M.Eng., MBA, etc.)",Reddit,,Python,SQLite,Redis,,,,,
+I am a developer by profession,28,Man,Netherlands,No,"Master’s degree (MA, MS, M.Eng., MBA, etc.)",Twitter,,,,SQLite,,,,,
+I am a developer by profession,,Man,Australia,No,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Facebook,Go,C,PostgreSQL,PostgreSQL,AWS,Arduino,Spring,,IntelliJ
+"I am not primarily a developer, but I write code sometimes as part of my work",36,Man,Mongolia,No,"Master’s degree (MA, MS, M.Eng., MBA, etc.)",Facebook,Java,Java,,,Docker,Kubernetes,,,IPython / Jupyter
+I am a developer by profession,28,Man,United States,No,Some college/university study without earning a degree,Reddit,Python,Python,,,Kubernetes,Linux,,,Vim
+I am a developer by profession,36,Man,Estonia,No,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Facebook,,R,,,Linux,,,,Visual Studio Code
+I am a developer by profession,30,Man,United States,No,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Instagram,,Scala,,,Microsoft Azure,,,,
+I am a developer by profession,43,Man,South Africa,No,"Bachelor’s degree (BA, BS, B.Eng., etc.)",WhatsApp,Go,Go,MongoDB,MongoDB,Heroku,Android,jQuery,React.js,Atom
+I am a developer by profession,42,Man,Norway,No,"Master’s degree (MA, MS, M.Eng., MBA, etc.)",WhatsApp,HTML/CSS,HTML/CSS,MySQL,,WordPress,Docker,React.js,Vue.js,PHPStorm
+I am a developer by profession,36,Man,France,No,"Master’s degree (MA, MS, M.Eng., MBA, etc.)",Twitter,JavaScript,JavaScript,,,,Heroku,,,Visual Studio Code
+I am a developer by profession,33,Man,Netherlands,No,Some college/university study without earning a degree,Facebook,PHP,TypeScript,,,,Kubernetes,,,
+I am a developer by profession,26,Man,United States,No,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Facebook,TypeScript,,,,,Windows,,,
+I am a developer by profession,33,Man,Germany,No,"Other doctoral degree (Ph.D, Ed.D., etc.)",I don't use social media,,,,,,WordPress,,,
+I am a developer by profession,22,Woman,Brazil,"Yes, full-time","Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)",WhatsApp,C#,,Microsoft SQL Server,,Windows,,ASP.NET,,Notepad++
+"I am not primarily a developer, but I write code sometimes as part of my work",30,Man,Bangladesh,No,"Master’s degree (MA, MS, M.Eng., MBA, etc.)",Facebook,HTML/CSS,,,,,,jQuery,,Visual Studio
+"I am not primarily a developer, but I write code sometimes as part of my work",42,Man,Spain,No,"Other doctoral degree (Ph.D, Ed.D., etc.)",Reddit,JavaScript,,,,,,,,
+I am a developer by profession,32,Man,United Kingdom,"Yes, part-time","Bachelor’s degree (BA, BS, B.Eng., etc.)",Reddit,SQL,,,,,,,,
+I am a developer by profession,33,Man,United Kingdom,No,"Bachelor’s degree (BA, BS, B.Eng., etc.)",WhatsApp,C#,C#,Microsoft SQL Server,MongoDB,Microsoft Azure,Android,ASP.NET,Angular/Angular.js,Visual Studio
+I am a developer by profession,23,Man,Netherlands,No,,YouTube,HTML/CSS,HTML/CSS,Oracle,Microsoft SQL Server,Windows,AWS,jQuery,ASP.NET,Visual Studio Code
+I am a developer by profession,28,Man,Japan,No,"Bachelor’s degree (BA, BS, B.Eng., etc.)",YouTube,JavaScript,Java,,MySQL,,iOS,,Django,
+I am a developer by profession,26,Woman,United States,No,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Facebook,SQL,JavaScript,,,,MacOS,,Express,
+I am a developer by profession,32,Man,Brazil,No,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Twitter,,Kotlin,,,,Windows,,jQuery,
+I am a developer by profession,22,Man,Philippines,"Yes, full-time","Bachelor’s degree (BA, BS, B.Eng., etc.)",Facebook,,Python,,,,,,React.js,
+I am a developer by profession,23,Man,United States,No,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Reddit,,SQL,,,,,,,
+I am a developer by profession,22,Man,Nepal,No,"Bachelor’s degree (BA, BS, B.Eng., etc.)",YouTube,Java,Java,SQLite,SQLite,Android,Android,,,Android Studio
+I am a developer by profession,25,Man,Netherlands,No,"Bachelor’s degree (BA, BS, B.Eng., etc.)",WhatsApp,Kotlin,Kotlin,,,,,,,
+I am a developer by profession,26,Man,United States,No,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Reddit,Go,Go,MySQL,PostgreSQL,Docker,Docker,,,Vim
+I am a developer by profession,29,Man,India,No,"Master’s degree (MA, MS, M.Eng., MBA, etc.)",LinkedIn,,Rust,Redis,,Kubernetes,Kubernetes,,,
+I am a developer by profession,24,Man,Poland,No,"Bachelor’s degree (BA, BS, B.Eng., etc.)",LinkedIn,,,,,Linux,Linux,,,
+I am a developer by profession,33,Man,Slovenia,No,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Facebook,,,,,Other(s):,Other(s):,,,
+I am a developer by profession,35,Man,Canada,No,"Bachelor’s degree (BA, BS, B.Eng., etc.)",YouTube,Bash/Shell/PowerShell,Bash/Shell/PowerShell,MongoDB,MongoDB,,Docker,Flask,Drupal,Atom
+I am a developer by profession,30,Man,United Kingdom,No,"Bachelor’s degree (BA, BS, B.Eng., etc.)",YouTube,HTML/CSS,HTML/CSS,Microsoft SQL Server,Microsoft SQL Server,,Slack,jQuery,Flask,Notepad++
+I am a developer by profession,27,Man,Austria,No,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Reddit,JavaScript,JavaScript,MySQL,MySQL,,WordPress,,jQuery,PyCharm
+I am a developer by profession,22,Woman,Spain,No,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Twitter,Python,Python,PostgreSQL,PostgreSQL,,,,Vue.js,Visual Studio Code
+I am a developer by profession,42,Man,United States,No,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Twitter,SQL,R,,,,,,,
+I am a developer by profession,26,Man,Netherlands,No,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Twitter,,SQL,,,,,,,
+I am a developer by profession,38,Man,Spain,No,Associate degree,WhatsApp,,TypeScript,,,,,,,
+I am a developer by profession,36,Man,United Kingdom,No,"Master’s degree (MA, MS, M.Eng., MBA, etc.)",YouTube,Elixir,Elixir,Elasticsearch,Elasticsearch,Google Cloud Platform,Google Cloud Platform,Ruby on Rails,Ruby on Rails,RubyMine
+I am a developer by profession,40,Man,Canada,No,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Facebook,Go,Go,MariaDB,PostgreSQL,Kubernetes,Kubernetes,Vue.js,Vue.js,
+I am a developer by profession,26,Woman,United States,No,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Reddit,JavaScript,Ruby,PostgreSQL,Redis,Linux,Linux,,,
+I am a developer by profession,33,Man,United States,No,"Master’s degree (MA, MS, M.Eng., MBA, etc.)",YouTube,Ruby,SQL,Redis,,Raspberry Pi,Raspberry Pi,,,
+I am a developer by profession,32,Man,United States,"Yes, full-time","Bachelor’s degree (BA, BS, B.Eng., etc.)",Reddit,SQL,,,,,,,,
+I am a developer by profession,29,Man,United States,"Yes, full-time","Master’s degree (MA, MS, M.Eng., MBA, etc.)",WhatsApp,Bash/Shell/PowerShell,Bash/Shell/PowerShell,Firebase,SQLite,Android,Android,ASP.NET,ASP.NET,Android Studio
+I am a developer by profession,38,Man,Norway,No,"Master’s degree (MA, MS, M.Eng., MBA, etc.)",Facebook,C#,C#,SQLite,Other(s):,iOS,iOS,jQuery,jQuery,Notepad++
+I am a developer by profession,27,Man,Kenya,No,"Bachelor’s degree (BA, BS, B.Eng., etc.)",WhatsApp,Dart,HTML/CSS,Other(s):,,Linux,Linux,,,Visual Studio
+I am a developer by profession,27,Woman,United States,No,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Twitter,HTML/CSS,JavaScript,,,Microsoft Azure,Microsoft Azure,,,Visual Studio Code
+I am a developer by profession,30,Man,China,"Yes, full-time",Some college/university study without earning a degree,WeChat 微信,JavaScript,,,,Slack,Slack,,,
+I am a developer by profession,38,Man,Canada,No,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Reddit,,,,,Windows,Windows,,,
+I am a developer by profession,46,Man,Romania,No,Some college/university study without earning a degree,YouTube,Bash/Shell/PowerShell,Clojure,MySQL,MongoDB,Docker,Docker,,Flask,Emacs
+I am a developer by profession,31,Man,Brazil,No,"Master’s degree (MA, MS, M.Eng., MBA, etc.)",WhatsApp,C,Elixir,,PostgreSQL,Linux,IBM Cloud or Watson,,,IPython / Jupyter
+"I am not primarily a developer, but I write code sometimes as part of my work",28,Man,Greece,No,"Bachelor’s degree (BA, BS, B.Eng., etc.)",YouTube,Python,Python,,Redis,MacOS,Kubernetes,,,Vim
+I am a developer by profession,35,Man,Netherlands,No,"Bachelor’s degree (BA, BS, B.Eng., etc.)",WhatsApp,,Rust,,,,Linux,,,
+I am a developer by profession,,Man,Germany,No,"Master’s degree (MA, MS, M.Eng., MBA, etc.)",YouTube,,Other(s):,,,,MacOS,,,
+I am a developer by profession,19,Man,Germany,"Yes, full-time","Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)",YouTube,HTML/CSS,Go,MySQL,Elasticsearch,iOS,Android,jQuery,Express,PHPStorm
+I am a developer by profession,28,Man,Iran,No,"Bachelor’s degree (BA, BS, B.Eng., etc.)",YouTube,JavaScript,Kotlin,SQLite,MongoDB,,Arduino,Laravel,React.js,PyCharm
+I am a developer by profession,32,Man,United States,No,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Twitter,Objective-C,Swift,,Redis,,AWS,Vue.js,,Sublime Text
+I am a developer by profession,31,Man,Netherlands,No,"Master’s degree (MA, MS, M.Eng., MBA, etc.)",Reddit,PHP,,,,,Docker,,,Visual Studio Code
+I am a developer by profession,23,Man,United States,No,"Bachelor’s degree (BA, BS, B.Eng., etc.)",I don't use social media,Python,,,,,,,,Xcode
+I am a developer by profession,31,Man,South Africa,No,Some college/university study without earning a degree,WhatsApp,Bash/Shell/PowerShell,Bash/Shell/PowerShell,Microsoft SQL Server,MongoDB,Microsoft Azure,Linux,jQuery,jQuery,Sublime Text
+I am a developer by profession,22,Man,India,"Yes, full-time","Bachelor’s degree (BA, BS, B.Eng., etc.)",WhatsApp,C#,C#,Redis,Microsoft SQL Server,Windows,Microsoft Azure,,React.js,Visual Studio
+I am a developer by profession,29,Man,Russian Federation,No,"Professional degree (JD, MD, etc.)",VK ВКонта́кте,HTML/CSS,HTML/CSS,,Redis,,Windows,,,
+I am a developer by profession,26,Man,"Venezuela, Bolivarian Republic of...",No,Some college/university study without earning a degree,Twitter,JavaScript,JavaScript,,,,,,,
+I am a developer by profession,22,Man,Indonesia,"Yes, full-time","Bachelor’s degree (BA, BS, B.Eng., etc.)",LinkedIn,SQL,SQL,,,,,,,
+I am a developer by profession,33,Man,Austria,No,Associate degree,Twitter,,TypeScript,,,,,,,
+I am a developer by profession,23,Man,United States,No,"Bachelor’s degree (BA, BS, B.Eng., etc.)",YouTube,,WebAssembly,,,,,,,
+I am a developer by profession,38,Man,India,No,"Master’s degree (MA, MS, M.Eng., MBA, etc.)",WhatsApp,C#,C#,,MongoDB,Windows,Windows,Angular/Angular.js,Angular/Angular.js,Visual Studio
+I am a developer by profession,30,Man,United States,No,"Master’s degree (MA, MS, M.Eng., MBA, etc.)",Reddit,JavaScript,JavaScript,,Microsoft SQL Server,,,,,Visual Studio Code
+I am a developer by profession,28,Man,United States,No,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Reddit,TypeScript,Rust,,PostgreSQL,,,,,
+"I am not primarily a developer, but I write code sometimes as part of my work",40,Man,India,No,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Reddit,,TypeScript,,SQLite,,,,,
+I am a developer by profession,32,Man,United Kingdom,No,"Bachelor’s degree (BA, BS, B.Eng., etc.)",WhatsApp,,WebAssembly,,,,,,,
+I am a developer by profession,25,Man,Russian Federation,No,Associate degree,VK ВКонта́кте,C#,C#,Microsoft SQL Server,Microsoft SQL Server,Microsoft Azure,Arduino,Angular/Angular.js,ASP.NET,IntelliJ
+I am a developer by profession,26,Man,United States,No,"Master’s degree (MA, MS, M.Eng., MBA, etc.)",YouTube,HTML/CSS,HTML/CSS,SQLite,SQLite,,Docker,ASP.NET,Vue.js,Notepad++
+I am a developer by profession,24,Man,Armenia,"Yes, part-time","Bachelor’s degree (BA, BS, B.Eng., etc.)",Facebook,JavaScript,JavaScript,,,,Microsoft Azure,jQuery,,Sublime Text
+I am a developer by profession,24,Man,Poland,No,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Facebook,SQL,SQL,,,,Raspberry Pi,Vue.js,,Visual Studio
+I am a developer by profession,34,Man,Switzerland,No,Some college/university study without earning a degree,Instagram,TypeScript,TypeScript,,,,,,,Visual Studio Code
+I am a developer by profession,30,Man,Australia,No,"Bachelor’s degree (BA, BS, B.Eng., etc.)",I don't use social media,C++,C++,,,Android,Windows,,,Notepad++
+I am a developer by profession,34,Woman,Ireland,"Yes, full-time","Other doctoral degree (Ph.D, Ed.D., etc.)",Facebook,C#,C#,,,iOS,,,,Visual Studio
+I am a developer by profession,40,Man,United Kingdom,No,"Other doctoral degree (Ph.D, Ed.D., etc.)",I don't use social media,,,,,Windows,,,,Visual Studio Code
+I am a developer by profession,33,Man,Italy,No,"Master’s degree (MA, MS, M.Eng., MBA, etc.)",LinkedIn,Bash/Shell/PowerShell,Python,Microsoft SQL Server,Elasticsearch,Linux,Linux,ASP.NET,,Eclipse
+I am a developer by profession,36,Man,Bulgaria,"Yes, full-time","Bachelor’s degree (BA, BS, B.Eng., etc.)",LinkedIn,C#,,Redis,,Windows,Windows,Spring,,IPython / Jupyter
+I am a developer by profession,34,Man,Belarus,No,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Reddit,HTML/CSS,,,,,,,,Notepad++
+I am a developer by profession,25,Woman,United States,No,"Bachelor’s degree (BA, BS, B.Eng., etc.)",,Java,,,,,,,,Visual Studio
+I am a developer by profession,29,Man,Canada,No,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Twitter,Python,,,,,,,,
+I am a developer by profession,35,Man,Panama,No,"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)",Twitter,SQL,,,,,,,,
+I am a developer by profession,29,Man,Portugal,No,"Master’s degree (MA, MS, M.Eng., MBA, etc.)",YouTube,HTML/CSS,JavaScript,Microsoft SQL Server,PostgreSQL,AWS,AWS,Ruby on Rails,Ruby on Rails,Atom
+I am a developer by profession,33,Man,Lebanon,No,"Master’s degree (MA, MS, M.Eng., MBA, etc.)",WhatsApp,JavaScript,Rust,PostgreSQL,Redis,Docker,Docker,,,Vim
+I am a developer by profession,20,Man,Belarus,"Yes, full-time","Bachelor’s degree (BA, BS, B.Eng., etc.)",Twitter,Rust,Swift,Redis,,Heroku,iOS,,,Xcode
+I am a developer by profession,28,Man,Poland,No,"Bachelor’s degree (BA, BS, B.Eng., etc.)",YouTube,Swift,WebAssembly,SQLite,,iOS,Kubernetes,,,
+I am a developer by profession,,Man,United States,No,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Reddit,Other(s):,,,,Kubernetes,,,,
+I am a developer by profession,,Man,Germany,"Yes, full-time","Master’s degree (MA, MS, M.Eng., MBA, etc.)",WhatsApp,Bash/Shell/PowerShell,Bash/Shell/PowerShell,MySQL,PostgreSQL,AWS,AWS,React.js,jQuery,Vim
+I am a developer by profession,22,Man,India,"Yes, full-time","Bachelor’s degree (BA, BS, B.Eng., etc.)",LinkedIn,HTML/CSS,HTML/CSS,PostgreSQL,Redis,Linux,Linux,Other(s):,React.js,
+I am a developer by profession,24,Woman,India,"Yes, full-time","Bachelor’s degree (BA, BS, B.Eng., etc.)",Facebook,C#,C#,Microsoft SQL Server,Microsoft SQL Server,Microsoft Azure,Docker,Angular/Angular.js,Angular/Angular.js,Visual Studio
+"I am not primarily a developer, but I write code sometimes as part of my work",27,Man,France,"Yes, full-time","Master’s degree (MA, MS, M.Eng., MBA, etc.)",Twitter,Python,Python,Other(s):,Other(s):,,Microsoft Azure,ASP.NET,,Visual Studio Code
+I am a developer by profession,34,Man,Italy,No,"Master’s degree (MA, MS, M.Eng., MBA, etc.)",Twitter,SQL,SQL,,,,,,,
+I am a developer by profession,22,Man,Romania,"Yes, full-time","Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)",YouTube,TypeScript,TypeScript,,,,,,,
+I am a developer by profession,25,Man,Luxembourg,No,"Bachelor’s degree (BA, BS, B.Eng., etc.)",WhatsApp,C#,C#,Microsoft SQL Server,Other(s):,AWS,Microsoft Azure,Angular/Angular.js,Angular/Angular.js,Coda
+I am a developer by profession,34,Man,United States,No,"Master’s degree (MA, MS, M.Eng., MBA, etc.)",Twitter,HTML/CSS,Kotlin,MySQL,,Google Cloud Platform,,ASP.NET,ASP.NET,Notepad++
+I am a developer by profession,32,Man,Netherlands,No,"Master’s degree (MA, MS, M.Eng., MBA, etc.)",WhatsApp,Java,Swift,PostgreSQL,,Microsoft Azure,,jQuery,,Visual Studio
+I am a developer by profession,24,Man,Iran,"Yes, full-time","Bachelor’s degree (BA, BS, B.Eng., etc.)",,HTML/CSS,Swift,Firebase,Firebase,Android,Android,React.js,React.js,Android Studio
+I am a developer by profession,25,Man,United States,No,Some college/university study without earning a degree,Twitter,C++,JavaScript,Couchbase,Couchbase,Android,Arduino,Angular/Angular.js,Angular/Angular.js,Android Studio
+I am a developer by profession,30,Man,India,No,"Master’s degree (MA, MS, M.Eng., MBA, etc.)",YouTube,C#,Python,MongoDB,,Arduino,AWS,ASP.NET,Express,Atom
+I am a developer by profession,31,Man,Germany,No,"Other doctoral degree (Ph.D, Ed.D., etc.)",I don't use social media,HTML/CSS,Ruby,Microsoft SQL Server,,Docker,Slack,Express,React.js,Eclipse
+I am a developer by profession,28,Man,Spain,No,"Master’s degree (MA, MS, M.Eng., MBA, etc.)",,C,Go,MySQL,Elasticsearch,AWS,AWS,Laravel,Django,PHPStorm
+I am a developer by profession,24,Man,United Kingdom,No,"Master’s degree (MA, MS, M.Eng., MBA, etc.)",Facebook,Java,Python,PostgreSQL,MySQL,Docker,Docker,Ruby on Rails,Laravel,Sublime Text
+I am a developer by profession,38,Man,Sweden,No,"Master’s degree (MA, MS, M.Eng., MBA, etc.)",Facebook,PHP,,,PostgreSQL,Heroku,Kubernetes,,,
+I am a developer by profession,41,Man,Germany,No,Some college/university study without earning a degree,Twitter,Ruby,,,Redis,Linux,Linux,,,
+I am a developer by profession,24,Man,United States,No,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Reddit,,,,,MacOS,MacOS,,,
+I am a developer by profession,28,Man,Canada,No,"Professional degree (JD, MD, etc.)",Twitter,,,,,Slack,Slack,,,
+I am a developer by profession,33,Man,Singapore,No,"Bachelor’s degree (BA, BS, B.Eng., etc.)",WhatsApp,C#,C#,Microsoft SQL Server,Elasticsearch,Microsoft Azure,Android,Angular/Angular.js,Angular/Angular.js,Notepad++
+"I am not primarily a developer, but I write code sometimes as part of my work",28,Man,Argentina,No,Some college/university study without earning a degree,Reddit,JavaScript,Go,MySQL,Firebase,Windows,AWS,ASP.NET,ASP.NET,Visual Studio
+I am a developer by profession,22,Man,United Kingdom,No,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Facebook,SQL,JavaScript,,MongoDB,,Google Cloud Platform,jQuery,Express,Visual Studio Code
+I am a developer by profession,23,Man,United Kingdom,No,Some college/university study without earning a degree,Facebook,,SQL,,Microsoft SQL Server,,iOS,,jQuery,
+I am a developer by profession,29,Man,Germany,No,"Bachelor’s degree (BA, BS, B.Eng., etc.)",WhatsApp,,Swift,,MySQL,,Linux,,React.js,
+I am a developer by profession,33,Man,Kuwait,No,"Bachelor’s degree (BA, BS, B.Eng., etc.)",YouTube,,TypeScript,,SQLite,,MacOS,,Vue.js,
+I am a developer by profession,45,Man,Republic of Moldova,No,"Other doctoral degree (Ph.D, Ed.D., etc.)",YouTube,,Other(s):,,,,Microsoft Azure,,,
+I am a developer by profession,32,Man,Sweden,No,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Reddit,,,,,,Windows,,,
+I am a developer by profession,30,Man,Algeria,No,"Master’s degree (MA, MS, M.Eng., MBA, etc.)",Facebook,Bash/Shell/PowerShell,Elixir,MongoDB,Other(s):,Docker,Google Cloud Platform,Angular/Angular.js,Other(s):,IntelliJ
+I am a developer by profession,49,Man,United Kingdom,No,I never completed any formal education,WhatsApp,C++,Scala,MySQL,,Google Cloud Platform,Kubernetes,jQuery,,RubyMine
+I am a developer by profession,30,Man,Spain,No,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Reddit,Clojure,,Oracle,,Heroku,Linux,React.js,,Vim
+I am a developer by profession,30,Woman,United Kingdom,No,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Facebook,Erlang,,PostgreSQL,,Kubernetes,Raspberry Pi,Ruby on Rails,,Visual Studio Code
+I am a developer by profession,27,Man,Brazil,No,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Instagram,HTML/CSS,,Other(s):,,Linux,Slack,Spring,,
+I am a developer by profession,24,Man,United Kingdom,No,"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)",Reddit,Java,,,,MacOS,,Other(s):,,
+I am a developer by profession,26,Man,Netherlands,No,"Bachelor’s degree (BA, BS, B.Eng., etc.)",YouTube,JavaScript,,,,Slack,,,,
+I am a developer by profession,22,Man,India,No,"Bachelor’s degree (BA, BS, B.Eng., etc.)",WhatsApp,Ruby,,,,Windows,,,,
+I am a developer by profession,32,Man,United Kingdom,"Yes, part-time",Some college/university study without earning a degree,YouTube,Scala,,,,Other(s):,,,,
+I am a developer by profession,25,Man,United States,"Yes, full-time",Associate degree,Facebook,C#,Assembly,DynamoDB,Cassandra,Android,Docker,Angular/Angular.js,Flask,Android Studio
+I am a developer by profession,26,Man,United States,No,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Reddit,HTML/CSS,,Microsoft SQL Server,Elasticsearch,AWS,Kubernetes,ASP.NET,Vue.js,Sublime Text
+I am a developer by profession,27,Man,United States,"Yes, part-time","Master’s degree (MA, MS, M.Eng., MBA, etc.)",YouTube,Java,,PostgreSQL,,Google Cloud Platform,Linux,Express,,Visual Studio
+I am a developer by profession,22,Man,India,No,"Bachelor’s degree (BA, BS, B.Eng., etc.)",WhatsApp,HTML/CSS,Java,MySQL,Elasticsearch,AWS,AWS,React.js,React.js,IntelliJ
+I am a developer by profession,57,Man,United States,No,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Facebook,Java,JavaScript,,Redis,Linux,Linux,Spring,Spring,Sublime Text
+I am a developer by profession,30,Man,Latvia,No,"Bachelor’s degree (BA, BS, B.Eng., etc.)",I don't use social media,JavaScript,Scala,,,,,Other(s):,Vue.js,
+I am a developer by profession,30,Man,United States,No,"Master’s degree (MA, MS, M.Eng., MBA, etc.)",Twitter,Scala,,,,,,,Other(s):,
+"I am not primarily a developer, but I write code sometimes as part of my work",63,Man,United States,No,"Master’s degree (MA, MS, M.Eng., MBA, etc.)",YouTube,SQL,,,,,,,,
+I am a developer by profession,34,Man,Côte d'Ivoire,No,"Master’s degree (MA, MS, M.Eng., MBA, etc.)",YouTube,Bash/Shell/PowerShell,C++,MongoDB,MongoDB,Linux,Linux,Flask,Django,Visual Studio Code
+I am a developer by profession,28,Man,Thailand,No,"Master’s degree (MA, MS, M.Eng., MBA, etc.)",Facebook,C,Python,,,,,,Flask,
+I am a developer by profession,27,Man,India,No,"Master’s degree (MA, MS, M.Eng., MBA, etc.)",LinkedIn,C++,,,,,,,,
+I am a developer by profession,40,Man,Switzerland,No,"Master’s degree (MA, MS, M.Eng., MBA, etc.)",Facebook,Python,,,,,,,,
+I am a developer by profession,44,Man,Germany,No,"Master’s degree (MA, MS, M.Eng., MBA, etc.)",Twitter,HTML/CSS,Go,MySQL,MySQL,AWS,AWS,Django,Django,Notepad++
+I am a developer by profession,26,Man,United States,No,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Reddit,Java,HTML/CSS,PostgreSQL,PostgreSQL,Docker,Docker,Flask,Flask,PyCharm
+I am a developer by profession,30,Man,Norway,No,"Master’s degree (MA, MS, M.Eng., MBA, etc.)",Reddit,JavaScript,Java,Redis,Redis,Kubernetes,Google Cloud Platform,Vue.js,Vue.js,Visual Studio Code
+I am a developer by profession,,Man,Germany,No,"Master’s degree (MA, MS, M.Eng., MBA, etc.)",Facebook,PHP,JavaScript,SQLite,SQLite,Linux,Linux,Other(s):,Other(s):,
+I am a developer by profession,65,Man,Spain,No,"Bachelor’s degree (BA, BS, B.Eng., etc.)",YouTube,Python,PHP,,,Slack,Slack,,,
+I am a developer by profession,54,Man,United States,No,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Reddit,SQL,Python,,,Windows,Windows,,,
+I am a developer by profession,33,Man,United States,No,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Facebook,,SQL,,,,,,,
+I am a developer by profession,29,"Non-binary, genderqueer, or gender non-conforming",United States,No,"Master’s degree (MA, MS, M.Eng., MBA, etc.)",YouTube,C#,C#,Microsoft SQL Server,Microsoft SQL Server,Windows,Windows,Angular/Angular.js,Angular/Angular.js,Notepad++
+I am a developer by profession,23,Man,United States,No,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Reddit,HTML/CSS,TypeScript,,,,,ASP.NET,ASP.NET,Visual Studio
+I am a developer by profession,23,Man,United States,No,"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)",Reddit,HTML/CSS,Go,,Elasticsearch,Docker,Docker,Angular/Angular.js,Angular/Angular.js,Atom
+"I am not primarily a developer, but I write code sometimes as part of my work",44,Man,United States,"Yes, part-time","Bachelor’s degree (BA, BS, B.Eng., etc.)",YouTube,JavaScript,HTML/CSS,,MongoDB,Kubernetes,Kubernetes,Express,Express,Visual Studio Code
+I am a developer by profession,35,Man,United States,No,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Reddit,TypeScript,JavaScript,,,,,jQuery,React.js,
+I am a developer by profession,34,Man,Italy,No,"Master’s degree (MA, MS, M.Eng., MBA, etc.)",WhatsApp,,TypeScript,,,,,React.js,Vue.js,
+I am a developer by profession,22,Man,Austria,No,,WhatsApp,,WebAssembly,,,,,,,
+I am a developer by profession,26,Man,India,No,"Bachelor’s degree (BA, BS, B.Eng., etc.)",WhatsApp,C#,C#,Microsoft SQL Server,MongoDB,Windows,Android,Angular/Angular.js,Angular/Angular.js,Atom
+I am a developer by profession,31,Man,India,No,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Twitter,HTML/CSS,F#,MySQL,Microsoft SQL Server,WordPress,Docker,ASP.NET,ASP.NET,Notepad++
+I am a developer by profession,28,Man,Poland,No,"Master’s degree (MA, MS, M.Eng., MBA, etc.)",YouTube,JavaScript,HTML/CSS,Oracle,,,Linux,Express,jQuery,Visual Studio
+I am a developer by profession,24,Man,Bangladesh,"Yes, full-time","Bachelor’s degree (BA, BS, B.Eng., etc.)",Facebook,PHP,JavaScript,SQLite,,,MacOS,jQuery,,Visual Studio Code
+I am a developer by profession,35,Man,Netherlands,No,"Master’s degree (MA, MS, M.Eng., MBA, etc.)",Twitter,SQL,SQL,,,,Slack,Laravel,,
+I am a developer by profession,21,Man,Germany,"Yes, full-time","Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)",Reddit,,TypeScript,,,,Windows,,,
+I am a developer by profession,28,Man,Kenya,No,Some college/university study without earning a degree,,Dart,HTML/CSS,DynamoDB,DynamoDB,AWS,AWS,Vue.js,React.js,Visual Studio Code
+I am a developer by profession,32,Man,United States,No,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Reddit,HTML/CSS,JavaScript,Elasticsearch,Elasticsearch,Windows,Docker,Other(s):,Vue.js,
+I am a developer by profession,26,Man,Bangladesh,No,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Facebook,JavaScript,Python,Firebase,MongoDB,,Windows,,Other(s):,
+I am a developer by profession,28,Man,United States,No,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Reddit,Python,TypeScript,MySQL,MySQL,,,,,
+I am a developer by profession,24,Man,Brazil,No,"Bachelor’s degree (BA, BS, B.Eng., etc.)",YouTube,TypeScript,Other(s):,,Redis,,,,,
+I am a developer by profession,35,Man,Belgium,No,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Facebook,Other(s):,,,,,,,,
+I am a developer by profession,25,Man,Finland,"Yes, part-time","Master’s degree (MA, MS, M.Eng., MBA, etc.)",Reddit,C++,Rust,MySQL,MySQL,Linux,Android,jQuery,,PHPStorm
+I am a developer by profession,29,Man,Switzerland,No,"Master’s degree (MA, MS, M.Eng., MBA, etc.)",Instagram,C#,WebAssembly,Redis,Redis,,Linux,Other(s):,,Vim
+I am a developer by profession,28,Man,Canada,No,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Reddit,Bash/Shell/PowerShell,Bash/Shell/PowerShell,Microsoft SQL Server,PostgreSQL,Google Cloud Platform,Docker,ASP.NET,Express,Visual Studio
+I am a developer by profession,34,Man,United States,No,"Other doctoral degree (Ph.D, Ed.D., etc.)",Twitter,C#,Go,,Redis,Microsoft Azure,Google Cloud Platform,jQuery,React.js,Visual Studio Code
+I am a developer by profession,34,Man,United States,No,"Master’s degree (MA, MS, M.Eng., MBA, etc.)",Reddit,HTML/CSS,Go,Firebase,Firebase,Docker,Android,Spring,Express,Android Studio
+I am a developer by profession,24,Man,Turkey,No,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Reddit,Java,Kotlin,MongoDB,MongoDB,Heroku,Arduino,,,Atom
+"I am not primarily a developer, but I write code sometimes as part of my work",25,Man,Ukraine,No,"Master’s degree (MA, MS, M.Eng., MBA, etc.)",YouTube,JavaScript,TypeScript,MySQL,Redis,Linux,AWS,,,IntelliJ
+I am a developer by profession,23,Woman,India,No,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Twitter,SQL,,Oracle,,Raspberry Pi,Kubernetes,,,Vim
+I am a developer by profession,22,Man,India,No,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Instagram,,,PostgreSQL,,WordPress,Linux,,,
+I am a developer by profession,35,Woman,United States,No,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Instagram,,,Redis,,,Microsoft Azure,,,
+I am a developer by profession,42,Man,Sweden,No,"Master’s degree (MA, MS, M.Eng., MBA, etc.)",I don't use social media,C++,Clojure,MongoDB,Firebase,AWS,Android,Angular/Angular.js,Express,Android Studio
+I am a developer by profession,30,Man,Greece,No,"Master’s degree (MA, MS, M.Eng., MBA, etc.)",Reddit,C#,Elixir,Microsoft SQL Server,MongoDB,Docker,Arduino,ASP.NET,React.js,Emacs
+I am a developer by profession,29,Man,United States,No,"Bachelor’s degree (BA, BS, B.Eng., etc.)",I don't use social media,Clojure,JavaScript,MySQL,MySQL,Heroku,AWS,Express,,
+"I am not primarily a developer, but I write code sometimes as part of my work",49,Man,Spain,No,"Master’s degree (MA, MS, M.Eng., MBA, etc.)",WhatsApp,JavaScript,Kotlin,Redis,Redis,Linux,Heroku,jQuery,,
+I am a developer by profession,21,Man,Brazil,"Yes, full-time","Bachelor’s degree (BA, BS, B.Eng., etc.)",YouTube,PHP,SQL,,SQLite,Slack,iOS,React.js,,
+I am a developer by profession,34,Man,Lithuania,No,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Facebook,Python,,,,Windows,Linux,,,
+I am a developer by profession,24,Man,Austria,"Yes, full-time","Bachelor’s degree (BA, BS, B.Eng., etc.)",YouTube,SQL,,,,,Raspberry Pi,,,
+I am a developer by profession,32,Man,United States,No,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Reddit,VBA,,,,,,,,
+I am a developer by profession,28,Man,Switzerland,No,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Twitter,Bash/Shell/PowerShell,C++,Elasticsearch,Redis,Docker,Docker,ASP.NET,React.js,Sublime Text
+I am a developer by profession,44,Man,Australia,No,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Facebook,C#,C#,Other(s):,,Google Cloud Platform,Google Cloud Platform,,Vue.js,Vim
+I am a developer by profession,20,Man,Russian Federation,No,Some college/university study without earning a degree,Twitter,Python,Go,,,Linux,,,,Visual Studio
+I am a developer by profession,25,Man,Netherlands,No,"Master’s degree (MA, MS, M.Eng., MBA, etc.)",WhatsApp,Other(s):,Python,,,,,,,Visual Studio Code
+I am a developer by profession,30,Man,Spain,No,"Professional degree (JD, MD, etc.)",Instagram,Bash/Shell/PowerShell,Bash/Shell/PowerShell,Couchbase,DynamoDB,AWS,AWS,Vue.js,Vue.js,IPython / Jupyter
+I am a developer by profession,37,Man,United States,No,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Twitter,Go,Go,DynamoDB,MongoDB,Docker,Docker,,,Vim
+I am a developer by profession,23,Man,Australia,"Yes, part-time","Bachelor’s degree (BA, BS, B.Eng., etc.)",YouTube,HTML/CSS,HTML/CSS,Elasticsearch,PostgreSQL,Google Cloud Platform,Kubernetes,,,Visual Studio Code
+"I am not primarily a developer, but I write code sometimes as part of my work",31,Man,United States,No,I never completed any formal education,I don't use social media,JavaScript,JavaScript,MongoDB,SQLite,Kubernetes,Linux,,,
+I am a developer by profession,36,Woman,United States,No,"Bachelor’s degree (BA, BS, B.Eng., etc.)",YouTube,Python,Python,PostgreSQL,,Linux,MacOS,,,
+I am a developer by profession,24,Man,United States,No,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Reddit,Rust,Rust,Redis,,MacOS,Raspberry Pi,,,
+I am a developer by profession,35,Man,Argentina,No,"Master’s degree (MA, MS, M.Eng., MBA, etc.)",Facebook,SQL,TypeScript,SQLite,,Raspberry Pi,,,,
+I am a developer by profession,32,Man,Bosnia and Herzegovina,No,Some college/university study without earning a degree,WhatsApp,,,,,Slack,,,,
+I am a developer by profession,25,Man,India,No,"Bachelor’s degree (BA, BS, B.Eng., etc.)",WhatsApp,C#,C#,Microsoft SQL Server,Elasticsearch,Docker,Docker,ASP.NET,ASP.NET,IntelliJ
+I am a developer by profession,29,Man,India,No,"Bachelor’s degree (BA, BS, B.Eng., etc.)",YouTube,HTML/CSS,Dart,PostgreSQL,Microsoft SQL Server,Slack,Linux,jQuery,jQuery,Notepad++
+I am a developer by profession,50,Man,United States,No,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Twitter,JavaScript,Elixir,,PostgreSQL,Windows,Slack,,React.js,Visual Studio
+I am a developer by profession,41,Man,United Kingdom,No,"Master’s degree (MA, MS, M.Eng., MBA, etc.)",YouTube,C,HTML/CSS,PostgreSQL,PostgreSQL,AWS,AWS,Angular/Angular.js,Flask,PyCharm
+I am a developer by profession,34,Man,South Korea,No,Some college/university study without earning a degree,Facebook,HTML/CSS,JavaScript,SQLite,SQLite,Docker,Docker,Flask,,Vim
+I am a developer by profession,21,Man,Canada,"Yes, full-time",Some college/university study without earning a degree,Reddit,JavaScript,Python,,,Kubernetes,Linux,jQuery,,
+I am a developer by profession,32,Man,Brazil,No,"Bachelor’s degree (BA, BS, B.Eng., etc.)",WhatsApp,Python,SQL,,,Linux,,,,
+I am a developer by profession,26,Man,Latvia,No,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Reddit,SQL,,,,Windows,,,,
+I am a developer by profession,30,Man,United Kingdom,No,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Twitter,TypeScript,,,,,,,,
+I am a developer by profession,26,Woman,United States,No,Some college/university study without earning a degree,Twitter,HTML/CSS,HTML/CSS,PostgreSQL,SQLite,Heroku,AWS,Express,Express,Atom
+I am a developer by profession,23,Man,United States,No,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Reddit,JavaScript,JavaScript,SQLite,,Other(s):,Other(s):,React.js,React.js,Visual Studio Code
+I am a developer by profession,26,Man,United States,No,Some college/university study without earning a degree,Snapchat,Ruby,TypeScript,,,,,Ruby on Rails,Vue.js,
+I am a developer by profession,23,Man,Brunei Darussalam,No,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Reddit,,WebAssembly,,,,,,,
+"I am not primarily a developer, but I write code sometimes as part of my work",36,Man,Indonesia,No,"Other doctoral degree (Ph.D, Ed.D., etc.)",,C#,C#,MongoDB,Microsoft SQL Server,Android,Android,ASP.NET,ASP.NET,Notepad++
+I am a developer by profession,25,Man,United Kingdom,No,"Bachelor’s degree (BA, BS, B.Eng., etc.)",WhatsApp,HTML/CSS,HTML/CSS,Microsoft SQL Server,,iOS,iOS,jQuery,,Visual Studio
+I am a developer by profession,27,,Germany,No,"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)",YouTube,JavaScript,SQL,SQLite,,MacOS,MacOS,,,Visual Studio Code
+"I am not primarily a developer, but I write code sometimes as part of my work",25,Man,Romania,No,"Master’s degree (MA, MS, M.Eng., MBA, etc.)",YouTube,SQL,Swift,,,Windows,Windows,,,Xcode
+I am a developer by profession,28,Man,Belgium,No,"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)",Facebook,Swift,TypeScript,,,,,,,
+I am a developer by profession,25,Man,United States,No,"Bachelor’s degree (BA, BS, B.Eng., etc.)",I don't use social media,Assembly,C++,MongoDB,Cassandra,Arduino,Android,ASP.NET,Angular/Angular.js,NetBeans
+I am a developer by profession,33,Man,Czech Republic,No,"Master’s degree (MA, MS, M.Eng., MBA, etc.)",Facebook,C,Java,Microsoft SQL Server,Firebase,IBM Cloud or Watson,Arduino,Django,ASP.NET,Notepad++
+I am a developer by profession,29,Man,Nigeria,No,"Bachelor’s degree (BA, BS, B.Eng., etc.)",WhatsApp,C++,Python,MySQL,MongoDB,Linux,AWS,Express,Django,Visual Studio Code
+I am a developer by profession,23,Man,United Kingdom,No,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Facebook,C#,SQL,SQLite,Microsoft SQL Server,Raspberry Pi,Docker,Spring,Express,
+I am a developer by profession,25,Man,France,No,"Master’s degree (MA, MS, M.Eng., MBA, etc.)",Facebook,HTML/CSS,,,MySQL,WordPress,Google Cloud Platform,,jQuery,
+I am a developer by profession,29,Man,Switzerland,No,"Bachelor’s degree (BA, BS, B.Eng., etc.)",WhatsApp,Bash/Shell/PowerShell,Java,PostgreSQL,PostgreSQL,AWS,AWS,Ruby on Rails,Ruby on Rails,Atom
+I am a developer by profession,22,Man,Nepal,No,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Facebook,Bash/Shell/PowerShell,Java,Elasticsearch,Elasticsearch,Android,Android,Angular/Angular.js,Express,Android Studio
+I am a developer by profession,28,Man,Turkey,No,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Twitter,C++,Python,MariaDB,MySQL,AWS,Linux,Express,React.js,IntelliJ
+I am a developer by profession,30,Man,Australia,No,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Facebook,HTML/CSS,Rust,MongoDB,PostgreSQL,Docker,,jQuery,Vue.js,Notepad++
+I am a developer by profession,34,Man,France,No,"Master’s degree (MA, MS, M.Eng., MBA, etc.)",LinkedIn,Java,Scala,MySQL,,Kubernetes,,React.js,,PyCharm
+I am a developer by profession,29,Man,Costa Rica,No,"Bachelor’s degree (BA, BS, B.Eng., etc.)",I don't use social media,JavaScript,,PostgreSQL,,Linux,,Spring,,Visual Studio Code
+I am a developer by profession,24,Man,Iran,No,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Reddit,Python,,SQLite,,MacOS,,,,
+I am a developer by profession,33,Man,South Africa,No,"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)",Reddit,Bash/Shell/PowerShell,Bash/Shell/PowerShell,Elasticsearch,Elasticsearch,Docker,AWS,Angular/Angular.js,Express,Coda
+I am a developer by profession,30,Woman,India,No,"Master’s degree (MA, MS, M.Eng., MBA, etc.)",LinkedIn,HTML/CSS,HTML/CSS,MongoDB,MongoDB,Heroku,Docker,Express,jQuery,Visual Studio Code
+I am a developer by profession,29,Man,Germany,"Yes, full-time","Master’s degree (MA, MS, M.Eng., MBA, etc.)",Twitter,JavaScript,JavaScript,MySQL,MySQL,Linux,Kubernetes,jQuery,Laravel,
+I am a developer by profession,25,Man,Denmark,"Yes, full-time","Bachelor’s degree (BA, BS, B.Eng., etc.)",Instagram,PHP,PHP,,Redis,MacOS,Linux,Laravel,React.js,
+I am a developer by profession,38,Man,Belgium,No,"Master’s degree (MA, MS, M.Eng., MBA, etc.)",Instagram,TypeScript,,,,Raspberry Pi,MacOS,React.js,Vue.js,
+I am a developer by profession,24,Man,Netherlands,No,Associate degree,WhatsApp,,,,,WordPress,WordPress,Vue.js,,
+I am a developer by profession,27,Man,Hungary,No,"Master’s degree (MA, MS, M.Eng., MBA, etc.)",Facebook,HTML/CSS,JavaScript,Elasticsearch,Elasticsearch,AWS,AWS,jQuery,jQuery,RubyMine
+I am a developer by profession,,Man,United States,No,"Bachelor’s degree (BA, BS, B.Eng., etc.)",I don't use social media,Java,Ruby,PostgreSQL,PostgreSQL,Docker,Docker,React.js,React.js,
+I am a developer by profession,34,Man,Switzerland,No,"Bachelor’s degree (BA, BS, B.Eng., etc.)",WhatsApp,JavaScript,SQL,Redis,Redis,,,Ruby on Rails,Ruby on Rails,
+I am a developer by profession,38,Man,United States,No,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Facebook,Ruby,TypeScript,,,,,,,
+I am a developer by profession,22,Man,Nepal,No,"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)",Facebook,SQL,,,,,,,,
+I am a developer by profession,27,Man,Norway,No,"Master’s degree (MA, MS, M.Eng., MBA, etc.)",YouTube,TypeScript,,,,,,,,
+I am a developer by profession,36,Man,Canada,No,"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)",I don't use social media,C#,Swift,Microsoft SQL Server,PostgreSQL,Android,AWS,ASP.NET,Django,Visual Studio
+I am a developer by profession,27,Man,India,No,"Bachelor’s degree (BA, BS, B.Eng., etc.)",WhatsApp,HTML/CSS,,PostgreSQL,,AWS,iOS,Django,,Visual Studio Code
+I am a developer by profession,33,Man,Netherlands,No,"Master’s degree (MA, MS, M.Eng., MBA, etc.)",YouTube,Java,,Redis,,Docker,Linux,,,Xcode
+I am a developer by profession,24,Man,Sweden,,"Master’s degree (MA, MS, M.Eng., MBA, etc.)",YouTube,C#,C#,Microsoft SQL Server,Microsoft SQL Server,Android,Android,Angular/Angular.js,Angular/Angular.js,Sublime Text
+"I am not primarily a developer, but I write code sometimes as part of my work",28,Man,Russian Federation,No,Some college/university study without earning a degree,WhatsApp,HTML/CSS,HTML/CSS,Oracle,Oracle,Windows,Windows,ASP.NET,ASP.NET,Visual Studio
+I am a developer by profession,27,Man,Egypt,No,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Facebook,JavaScript,JavaScript,,,,,,Express,Visual Studio Code
+I am a developer by profession,23,Man,Brazil,"Yes, part-time","Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)",WhatsApp,SQL,SQL,,,,,,jQuery,
+I am a developer by profession,29,Man,United States,No,"Bachelor’s degree (BA, BS, B.Eng., etc.)",LinkedIn,TypeScript,TypeScript,,,,,,Vue.js,
+I am a developer by profession,38,Woman,United Kingdom,No,"Master’s degree (MA, MS, M.Eng., MBA, etc.)",Reddit,Bash/Shell/PowerShell,Bash/Shell/PowerShell,Firebase,Firebase,AWS,Google Cloud Platform,Angular/Angular.js,Flask,RStudio
+I am a developer by profession,31,Man,United Kingdom,No,"Master’s degree (MA, MS, M.Eng., MBA, etc.)",WhatsApp,HTML/CSS,Go,MySQL,MySQL,Linux,Linux,Flask,Vue.js,Sublime Text
+I am a developer by profession,25,"Non-binary, genderqueer, or gender non-conforming",United Kingdom,No,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Instagram,Java,HTML/CSS,,Redis,Slack,Raspberry Pi,jQuery,,Visual Studio Code
+I am a developer by profession,32,Man,Israel,No,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Facebook,JavaScript,JavaScript,,SQLite,Windows,WordPress,Vue.js,,
+I am a developer by profession,37,Man,United States,No,"Master’s degree (MA, MS, M.Eng., MBA, etc.)",Reddit,PHP,Python,,,WordPress,,,,
+I am a developer by profession,44,Man,United States,No,Associate degree,Facebook,HTML/CSS,Bash/Shell/PowerShell,MongoDB,Cassandra,Android,Android,Express,Express,Atom
+I am a developer by profession,26,Man,India,No,"Bachelor’s degree (BA, BS, B.Eng., etc.)",WhatsApp,Java,HTML/CSS,,Elasticsearch,AWS,Arduino,jQuery,React.js,IntelliJ
+I am a developer by profession,25,Man,Finland,"Yes, part-time","Master’s degree (MA, MS, M.Eng., MBA, etc.)",Reddit,JavaScript,Java,,Firebase,Docker,AWS,React.js,Ruby on Rails,Sublime Text
+I am a developer by profession,28,Man,United States,No,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Facebook,TypeScript,JavaScript,,MongoDB,MacOS,Docker,Spring,Spring,
+I am a developer by profession,34,Man,Canada,No,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Reddit,,Python,,Redis,Slack,Google Cloud Platform,,Vue.js,
+I am a developer by profession,40,Man,Jordan,No,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Facebook,C,F#,Microsoft SQL Server,Microsoft SQL Server,iOS,Android,Angular/Angular.js,Angular/Angular.js,Visual Studio
+I am a developer by profession,38,Man,Israel,No,"Bachelor’s degree (BA, BS, B.Eng., etc.)",I don't use social media,C++,JavaScript,MySQL,MySQL,Windows,iOS,ASP.NET,Express,Visual Studio Code
+I am a developer by profession,35,Man,United Kingdom,No,"Bachelor’s degree (BA, BS, B.Eng., etc.)",WhatsApp,C#,Rust,PostgreSQL,PostgreSQL,,Linux,Express,React.js,
+I am a developer by profession,27,Man,United States,No,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Reddit,F#,SQL,SQLite,SQLite,,MacOS,React.js,,
+"I am not primarily a developer, but I write code sometimes as part of my work",50,Man,United States,No,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Twitter,Java,Java,Oracle,Elasticsearch,Android,Android,Laravel,Angular/Angular.js,Android Studio
+I am a developer by profession,36,Man,India,No,"Master’s degree (MA, MS, M.Eng., MBA, etc.)",WhatsApp,Kotlin,Kotlin,SQLite,SQLite,Docker,Docker,Ruby on Rails,Laravel,IntelliJ
+I am a developer by profession,39,Man,United States,No,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Facebook,,Swift,,,iOS,Google Cloud Platform,Spring,Ruby on Rails,PHPStorm
+I am a developer by profession,30,Man,Mexico,No,Associate degree,WhatsApp,Bash/Shell/PowerShell,Bash/Shell/PowerShell,SQLite,Redis,iOS,iOS,React.js,React.js,Atom
+I am a developer by profession,28,Man,Ukraine,"Yes, part-time","Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)",Facebook,HTML/CSS,Python,,,Raspberry Pi,Kubernetes,,,Visual Studio Code
+I am a developer by profession,32,Man,Portugal,No,"Master’s degree (MA, MS, M.Eng., MBA, etc.)",Facebook,JavaScript,Swift,,,,Raspberry Pi,,,Xcode
+I am a developer by profession,,Man,United States,No,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Facebook,Python,Clojure,MongoDB,PostgreSQL,AWS,AWS,,,Emacs
+I am a developer by profession,33,Man,United States,No,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Facebook,Bash/Shell/PowerShell,Bash/Shell/PowerShell,,DynamoDB,AWS,AWS,Flask,Flask,PyCharm
+I am a developer by profession,43,Man,United States,No,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Twitter,Bash/Shell/PowerShell,C,MariaDB,MariaDB,Linux,Android,,Django,Atom
+I am a developer by profession,34,Man,India,No,"Bachelor’s degree (BA, BS, B.Eng., etc.)",LinkedIn,HTML/CSS,C++,Microsoft SQL Server,MongoDB,Slack,AWS,,Flask,Eclipse
+I am a developer by profession,35,Man,Canada,No,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Reddit,C#,C#,Microsoft SQL Server,MongoDB,Windows,Docker,ASP.NET,Angular/Angular.js,Vim
+I am a developer by profession,25,"Woman;Non-binary, genderqueer, or gender non-conforming",United States,No,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Instagram,HTML/CSS,Go,,,,Linux,jQuery,Django,Visual Studio
+I am a developer by profession,27,Man,Zimbabwe,No,"Bachelor’s degree (BA, BS, B.Eng., etc.)",WhatsApp,SQL,Python,,,,,,,Visual Studio Code
+I am a developer by profession,35,Man,United States,No,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Twitter,C++,C++,Microsoft SQL Server,Microsoft SQL Server,Arduino,Arduino,ASP.NET,,Notepad++
+I am a developer by profession,31,Man,Mexico,No,"Bachelor’s degree (BA, BS, B.Eng., etc.)",WhatsApp,C#,C#,MySQL,,Google Cloud Platform,Windows,,,Vim
+I am a developer by profession,,Man,United States,"Yes, full-time","Other doctoral degree (Ph.D, Ed.D., etc.)",Facebook,SQL,SQL,,,Windows,,,,Visual Studio
+I am a developer by profession,27,Man,South Africa,No,Some college/university study without earning a degree,I don't use social media,Java,Java,MongoDB,DynamoDB,AWS,AWS,Angular/Angular.js,Angular/Angular.js,Eclipse
+I am a developer by profession,23,Man,Nepal,No,"Bachelor’s degree (BA, BS, B.Eng., etc.)",WhatsApp,JavaScript,JavaScript,MySQL,Elasticsearch,Docker,Docker,Express,ASP.NET,Visual Studio Code
+I am a developer by profession,29,Man,France,No,"Master’s degree (MA, MS, M.Eng., MBA, etc.)",Facebook,,Kotlin,,Firebase,Heroku,Kubernetes,Spring,Express,
+I am a developer by profession,21,Man,Australia,"Yes, part-time",Some college/university study without earning a degree,Snapchat,,Python,,MongoDB,Kubernetes,,,Spring,
+"I am not primarily a developer, but I write code sometimes as part of my work",35,Man,Italy,No,"Master’s degree (MA, MS, M.Eng., MBA, etc.)",WhatsApp,Assembly,C,,Elasticsearch,Android,Android,Spring,Angular/Angular.js,Eclipse
+I am a developer by profession,36,Man,United States,No,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Twitter,C,C++,,PostgreSQL,Arduino,Docker,,React.js,Notepad++
+I am a developer by profession,27,Man,Romania,No,"Master’s degree (MA, MS, M.Eng., MBA, etc.)",Reddit,HTML/CSS,Elixir,MySQL,MySQL,Heroku,Google Cloud Platform,React.js,React.js,Visual Studio Code
+I am a developer by profession,33,Man,United States,No,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Instagram,JavaScript,F#,PostgreSQL,PostgreSQL,,Heroku,Ruby on Rails,,
+I am a developer by profession,21,Man,Italy,"Yes, part-time",Some college/university study without earning a degree,Facebook,HTML/CSS,Go,Elasticsearch,DynamoDB,Android,Android,Angular/Angular.js,Express,Android Studio
+I am a developer by profession,32,Man,Germany,No,"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)",I don't use social media,Java,HTML/CSS,MySQL,Elasticsearch,Arduino,Arduino,Express,React.js,Notepad++
+I am a developer by profession,39,Man,Portugal,No,Some college/university study without earning a degree,Reddit,JavaScript,JavaScript,Redis,MongoDB,AWS,AWS,jQuery,Vue.js,Visual Studio Code
